@@ -1,0 +1,2 @@
+author$title$publisher$year
+Jure Leskovec and Anand Rajaraman and Jeffrey David Ullman$Mining of Massive Datasets$Cambridge University Press$2014

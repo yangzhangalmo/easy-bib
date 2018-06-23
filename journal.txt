@@ -1,0 +1,10 @@
+author$title$venue$volume$number$pages$publisher$year
+David J. Crandall and Lars Backstrom and Dan Cosley and Siddharth Suri and Daniel Huttenlocher and Jon Kleinberg$Inferring Social Ties from Geographic Coincidences$PNAS$107$52$22436-22441$National Academy of Sciences$2010
+Yves-Alexandre de Montjoye and C{\'e}sar A. Hidalgo and Michel Verleysen and Vincent D. Blondel$Unique in the Crowd: The Privacy Bounds of Human Mobility$scireport$3$$1376$Nature Publishing Group$2013
+David Liben-Nowell and Jon Kleinberg$The Link-prediction Problem for Social Networks$JAIST$58$7$1019-1031$Wiley Online Library$2007
+Shouling Ji and Prateek Mittal and Raheem Beyah$Graph Data Anonymization, De-Anonymization Attacks, and De-Anonymizability Quantification: A Survey$ICST$19$2$1305-1326$IEEE$2016
+Cynthia Dwork and Aaron Roth$The Algorithmic Foundations of Differential Privacy$FTTCS$9$3-4$211-407$Now Publishers Inc.$2014
+Lei Zou and Lei Chen and M. Tamer Ozsu$K-Automorphism: A General Framework for Privacy Preserving Network Publication$VLDB_journal$2$1$946-957$VLDB Endowment$2009
+Yue Wang and Xintao Wu$Preserving Differential Privacy in Degree-correlation based Graph Generation$TDP$6$2$127$NIH Public Access$2013
+Michael Hay and Gerome Miklau and David Jensen and Don Towsley and Philipp Weis$Resisting Structural Re-identification in Anonymized Social Networks$VLDB_journal$1$1$102-114$VLDB Endowment$2008
+Smriti Bhagat and Graham Cormode and Balachander Krishnamurthy and Divesh Srivastava$Class-based Graph Anonymization for Social Network Data$VLDB_journal$2$1$766-777$VLDB Endowment$2009

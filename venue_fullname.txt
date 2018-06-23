@@ -1,0 +1,48 @@
+venue$fullname
+ICST$IEEE Communications Surveys \& Tutorials
+COS$Computers \& Security
+COSN$ACM Conference on Online Social Networks
+WI$International Conference on Web Intelligence
+ACL$Annual Meeting of the Association for Computational Linguistics
+WWW_old$International Conference on World Wide Web
+ICLR$International Conference on Learning Representations
+NDSS$Network and Distributed System Security Symposium
+ICDE$International Conference on Data Engineering
+KDD$ACM Conference on Knowledge Discovery and Data Mining
+FOCS$Annual Symposium on Foundations of Computer Science
+KAIS$Knowledge and Information Systems
+ICDM$International Conference on Data Mining
+Euro S\&P$IEEE European Symposium on Security and Privacy
+ARES$Conference on Availability, Reliability and Security
+SACMAT$ACM Symposium on Access Control Models and Technologies
+RecSys$ACM Conference on Recommender Systems
+scireport$Scientific Reports
+IMC$ACM Internet Measurement Conference
+Coling$International Conference on Computational Linguistics
+ASIAPKC$ACM Workshop on Asia Public-key Cryptography
+CHI$Annual ACM Conference on Human Factors in Computing Systems
+WWW$Web Conference
+S\&P$IEEE Symposium on Security and Privacy
+CCS$ACM SIGSAC Conference on Computer and Communications Security
+WSDM$ACM International Conference on Web Search and Data Mining
+WISE$International Conference Web Information Systems Engineering
+SNAA$Workshop on Social Network Analysis in Applications
+ICCV$IEEE International Conference on Computer Vision
+WPES$Workshop on Privacy in the Electronic Society
+TDP$Transactions on Data Privacy
+HT$ACM Conference on Hypertext and Social Media
+ICCSNT$International Conference on Computer Science and Network Technology
+JAIST$Journal of the American Society for Information Science and Technology
+FTTCS$Foundations and Trends in Theoretical Computer Science
+ICWE$International Conference on Web Engineering
+APWeb$Asia-Pacific Web Conference
+SIGMOD$ACM SIGMOD International Conference on Management of Data
+COMPSAC$Annual IEEE Computers, Software and Applications Conference
+VLDB_journal$Proceedings of the VLDB Endowment
+Security$USENIX Security Symposium
+ICWSM$International Conference on Weblogs and Social Media
+PNAS$Proceedings of the National Academy of Sciences
+SocInfo$International Conference on Social Informatics
+WOSN$ACM Workshop on Online social networks
+CIKM$ACM International Conference on Information and Knowledge Management
+NIPS$Annual Conference on Neural Information Processing Systems

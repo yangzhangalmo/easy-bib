@@ -1,0 +1,76 @@
+author$title$venue$pages$publisher$year
+Michael Backes and Mathias Humbert and Jun Pang and Yang Zhang$walk2friends: Inferring Social Links from Mobility Profiles$CCS$1943-1957$ACM$2017
+Yang Zhang and Mathias Humbert and Tahleen Rahman and Cheng-Te Li and Jun Pang and Michael Backes$Tagvisor: A Privacy Advisor for Sharing Hashtags$WWW$287-296$ACM$2018
+Pascal Berrang and Mathias Humbert and Yang Zhang and Irina Lehmann and Roland Eils and Michael Backes$Dissecting Privacy Risks in Biomedical Data$Euro S\&P$$IEEE$2018
+Michael Backes and Pascal Berrang and Mathias Humbert and Praveen Manoharan$Membership Privacy in MicroRNA-based Studies$CCS$319-330$ACM$2016
+Keith Bonawitz and Vladimir Ivanov and Ben Kreuter and Antonio Marcedone and H. Brendan McMahan and Sarvar Patel and Daniel Ramage and Aaron Segal and Karn Seth$Practical Secure Aggregation for Privacy-Preserving Machine Learning$CCS$1175-1191$ACM$2017
+Raphael Bost and Raluca Ada Popa and  Stephen Tu and Shafi Goldwasser$Machine Learning Classification over Encrypted Data$NDSS$$Internet Society$2015
+Nicholas Carlini and David Wagner$Towards Evaluating the Robustness of Neural Networks$S\&P$39-57$IEEE$2017
+David Evans and Yan Huang and Jonathan Katz and Lior Malka$Efficient Privacy-Preserving Biometric Identification$NDSS$$Internet Society$2011
+Matthew Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2014
+Jinyuan Jia and Neil Zhenqiang Gong$AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning$Security$$USENIX$2018
+Apostolos Pyrgelis and Carmela Troncoso and Emiliano De Cristofaro$Knock Knock, Who's There? Membership Inference on Aggregate Location Data$NDSS$$Internet Society$2018
+Reza Shokri and Marco Stronati and Congzheng Song and Vitaly Shmatikov$Membership, Inference Attacks Against Machine Learning Models$S\&P$3-18$IEEE$2017
+Yuxiao Dong and Jie Tang and Sen Wu and Jilei Tian and Nittiest V Chawla and Jinghai Rao and Huanhuan Cao$Link Prediction and Recommendation across Heterogeneous Social Networks$ICDM$181-190$IEEE$2012
+Aditya Grover and Jure Leskovec$node2vec: Scalable Feature Learning for Networks$KDD$855-864$ACM$2016
+Simon Oya and Carmela Troncoso and Fernando P{\'e}rez-Gonz{\'a}lez$Back to the Drawing Board: Revisiting the Design of Optimal Location Privacy-preserving Mechanisms$CCS$1943-1957$ACM$2017
+Yelena Mejova and Sofiane Abbar and Hamed Haddadi$Fetishizing Food in Digital Age: \#foodporn Around the World$ICWSM$250-258$AAAI$2016
+Flavio Souza and Diego de Las Casas and Vinicius Flores and SunBum Youn and Meeyoung Cha and Daniele Quercia and Virgilio Almeida$Dawn of the Selfie Era: The Whos, Wheres, and Hows of Selfies on Instagram$COSN$221-231$ACM$2015
+Eunjoon Cho and Seth A. Myers and Jure Leskovec$Friendship and Mobility: User Movement in Location-based Social Networks$KDD$1082-1090$ACM$2011
+Beatrice Perez and Mirco Musolesi and Gianluca Stringhini$You Are Your Metadata: Identification and Obfuscation of Social Media Users using Metadata Information$ICWSM$241-250$AAAI$2018
+Tomas Mikolov and Kai Chen and Greg Corrado and Jeffrey Dean$Efficient Estimation of Word Representations in Vector Space$ICLR$$$2013
+Tomas Mikolov and Ilya Sutskever and Kai Chen and Greg S. Corrado and Jeffrey Dean$Distributed Representations of Words and Phrases and their Compositionally$NIPS$3111-3119$NIPS$2013
+Jun Pang and Yang Zhang$Quantifying Location Sociality$HT$145-154$ACM$2017
+Jun Pang and Yang Zhang$DeepCity: A Feature Learning Framework for Mining Location Check-Ins$ICWSM$652-655$AAAI$2017
+Reza Shokri and Georgios Theodorakopoulos and Jean-Yves Le Boudec and Jean-Pierre Hubaux$Quantifying Location Privacy$S\&P$247-262$IEEE$2011
+Jun Pang and Yang Zhang$Location Prediction: Communities Speak Louder than Friends$COSN$161-171$ACM$2015
+William L. Hamilton and Jure Leskovec and Dan Jurafsky$Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change$ACL$1489-1501$ACL$2016
+Bryan Perozzi and Rami Al-Rfou and Steven Skiena$DeepWalk: Online Learning of Social Representations$KDD$701-710$ACM$2014
+Dmitry David and Oren Tsur and Ari Rappoport$Enhanced Sentiment Learning Using Twitter Hashtags and Smileys$Coling$241-249$ACL$2010
+Daniel M. Romero and Brendan Meeder and Jon Kleinberg$Differences in the Mechanics of Information Diffusion Across Topics: Idioms, Political Hashtags, and Complex Contagion on Twitter$WWW_old$695-704$ACM$2011
+Julia Deeb-Swihart and Christopher Polack and Eric Gilbert and Irfan A. Essa$Selfie-Presentation in Everyday Life: A Large-Scale Characterization of Selfie Contexts on Instagram$ICWSM$42-51$AAAI$2017
+Raphael Ottoni and Diego Las Casas and Joao Paulo Pesce and Wagner Meira Jr and Christo Wilson and Alan Mislove and Virgilio Almeida$Of Pins and Tweets: Investigating How Users Behave Across Image- and Text-Based Social Networks$ICWSM$386-395$AAAI$2014
+Parantapa Bhattacharya and Muhammad Bilal Zafar and Niloy Ganguly and Saptarshi Ghosh and Krishna P. Gummadi$Inferring User Interests in the Twitter Social Network$RecSys$357-360$ACM$2014
+Kiran Garimella and Gianmarco De Francisci Morales and Aristides Gionis and Michael Mathioudakis$Quantifying Controversy in Social Media$WSDM$33-42$ACM$2016
+Jacob Ratkiewicz and Michael D. Conover and Mark Meiss and Bruno Goncalves and Alessandro Flammini and Filippo Menczer$Detecting and Tracking Political Abuse in Social Media$ICWSM$297-304$AAAI$2011
+Janette Lehmann and Bruno Goncalves and Jos{\'e} J. Ramasco and Ciro Cattuto$Dynamical Classes of Collective Attention in Twitter$WWW_old$251-260$ACM$2012
+Salvatore Scellato and Anastasios Noulas and Cecilia Mascolo$Exploiting Place Features in Link Prediction on Location-based Social Networks$KDD$1046-1054$ACM$2011
+Ruth Garcia Gavilanes and Neil O'Hare and Luca Maria Aiello and Alejandro Jaimes$Follow My Friends This Friday! An Analysis of Human-Generated Friendship Recommendations$SocInfo$46-59$Springer$2013
+Daniele Quercia and Luca Maria Aiello and Rossano Schifanella and Adam Davies$The Digital Life of Walkable Streets$WWW_old$875-884$ACM$2015
+Kevin Tang and Manohar Paluri and Fei-Fei Li and Rob Fergus and Lubomir Bourdev$Improving Image Classification with Location Context$ICCV$1008-1016$IEEE$2015
+Jin Yea Jang and Kyungsik Han and Patrick C. Shih and Dongwon Lee$Generation Like: Comparative Characteristics in Instagram$CHI$4039-4042$ACM$2015
+Jian Tang and Meng Qu and Mingzhe Wang and Ming Zhang and Jun Yan and Qiaozhu Mei$LINE: Large-scale Information Network Embedding$WWW_old$1067-1077$ACM$2015
+Qingyun Liu and Shiliang Tang and Xinyi Zhang and Xiaohan Zhao and Ben Y. Zhao and Haitao Zheng$Network Growth and Link Prediction Through an Empirical Lens$IMC$1-15$ACM$2016
+Huy Pham and Cyrus Shahabi and Yan Liu$EBM: An Entropy-Based Model to Infer Social Strength from Spatiotemporal Data$SIGMOD$265-276$ACM$2013
+Hongjian Wang and Zhenhui Li and Wang-Chien Lee$PGT: Measuring Mobility Relationship Using Personal, Global and Temporal Factors$ICDM$570-579$IEEE$2014
+Bimal Viswanath and Alan Mislove and Meeyoung Cha and Krishna P. Gummadi$On the Evolution of User Interaction in Facebook$WOSN$37-42$ACM$2009
+Gang Wang and Manish Mohanlal and Christo Wilson and Xiao Wang and Miriam Metzger and Haitao Zheng and Ben Y. Zhao$Social Turing Tests: Crowdsourcing Sybil Detection$NDSS$$Internet Society$2013
+Gang Wang and Bolun Wang and Tianyi Wang and Ana Nika and Haitao Zheng and Ben Y. Zhao$Whispers in the Dark: Analysis of an Anonymous Social Network$IMC$137-150$ACM$2014
+Reza Shokri and Marco Stronati and Congzheng Song and Vitaly Shmatikov$Membership Inference Attacks Against Machine Learning Models$S\&P$3-18$IEEE$2017
+Michael Backes and Pascal Berrang and Mathias Humbert and Praveen Manoharan$Membership Privacy in MicroRNA-based Studies$CCS$319-330$ACM$2016
+Matthew Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2016
+Julian Mcauley and Jure Leskovec$Learning to Discover Social Circles in Ego Networks$NIPS$539-547$NIPS$2012
+Manuel Egele and Gianluca Stringhini and Christopher Kruegel and Giovanni Vigna$Compa: Detecting Compromised Accounts on Social Networks$NDSS$$Internet Society$2013
+Hao Ma and Dengyong Zhou and Chao Liu and Michael R Lyu and Irwin King$Recommender Systems with Social Regularization$WSDM$287-296$ACM$2011
+David Kempe and Jon Kleinberg and {\'E}va Tardos$Maximizing the Spread of Influence through a Social Network$KDD$137-146$ACM$2003
+Kun Liu and Evimaria Terzi$Towards Identity Anonymization on Graphs$SIGMOD$93-106$ACM$2008
+Alessandra Sala and Xiaohan Zhao and Christo Wilson and Haitao Zheng and Ben Y. Zhao$Sharing Graphs using Differentially Private Graph Models$IMC$81-98$ACM$2011
+Prateek Mittal and Charalampos Papamanthou and Dawn Song$Preserving Link Privacy in Social Network Based Systems$NDSS$$Internet Society$2013
+Arvind Narayanan and Vitaly Shmatikov$De-anonymizing Social Networks$S\&P$173-187$IEEE$2009
+Shouling Ji and Weiqing Li and Prateek Mittal and Xin Hu and Raheem Beyah$SecGraph: A Uniform and Open-source Evaluation System for Graph Data Anonymization and De-anonymization$Security$303-318$USENIX$2015
+Mudhakar Srivatsa and Mike Hicks$Deanonymizing Mobility Traces: Using Social Network as a Side-channel$CCS$628-637$ACM$2012
+Lars Backstrom and Cynthia Dwork and Jon Kleinberg$Wherefore Art Thou R3579X? Anonymized Social Networks, Hidden Patterns, and Structural Steganography$WWW_old$181-190$ACM$2007
+Qian Xiao and Rui Chen and Kian-Lee Tan$Differentially Private Network Data Release via Structural Inference$KDD$911-920$ACM$2014
+Bin Zhou and Jian Pei$Preserving Privacy in Social Networks Against Neighborhood Attacks$ICDE$506-515$IEEE$2008
+Davide Proserpio and Sharon Goldberg and Frank McSherry$A Workflow for Differentially-private Graph Synthesis$WOSN$13-18$ACM$2012
+Bimal Viswanath and M. Ahmad Bashir and Mark Crovella and Saikat Guha and Krishna P. Gummadi and Balachander Krishnamurthy and Alan Mislove$Towards Detecting Anomalous User Behavior in Online Social Networks$Security$223-238$USENIX$2014
+Michael Backes and Pascal Berrang and Anne Hecksteden and Mathias Humbert and Andreas Keller and Tim Meyer$Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles$Security$1223-1240$USENIX$2016
+Andrew McGregor and Ilya Mironov and Toniann Pitassi and Omer Reingold and Kunal Talwar and Salil Vadhan$The Limits of Two-Party Differential Privacy$FOCS$81-90$IEEE$2010
+Jinyuan Jia and Binghui Wang and Le Zhang and Neil Zhenqiang Gong$AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields$WWW_old$1561-1569$ACM$2017
+Shirin Nilizadeh and Apu Kapadia and Yong-Yeol Ahn$Community-enhanced De-anonymization of Online Social Networks$CCS$537-548$ACM$2014
+Shouling Ji and Weiqing Li and Mudhakar Srivatsa and Raheem Beyah$Structural Data De-anonymization: Quantification, Practice, and Implications$CCS$1040-1053$ACM$2014
+Kumar Sharad and George Danezis$An Automated Social Graph De-anonymization Technique$WPES$47-58$ACM$2014
+Giridhari Venkatadri and Oana Goga and Changtao Zhong and Bimal Viswanath and Krishna P. Gummadi and Nishanth Sastry$Strengthening Weak Identities through Inter-domain Trust Transfer$WWW_old$1249-1259$ACM$2016
+Fred Morstatter and Jurgen Pfeffer and Huan Liu and Kathleen M. Carley$Is the Sample Good Enough? Comparing Data from Twitter's Streaming API with Twitter's Firehose$ICWSM$400-408$AAAI$2013
+Daniele Quercia and Rossano Schifanella and Luca Maria Aiello$The Shortest Path to Happiness: Recommending Beautiful, Quiet, and Happy Routes in the City$HT$116-125$ACM$2014
+Vivek Kulkarni and Rami Al-Rfou and Bryan Perozzi and Steven Skiena$Statistically Significant Detection of Linguistic Change$WWW_old$625-635$ACM$2015
