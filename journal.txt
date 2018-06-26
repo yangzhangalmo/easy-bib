@@ -8,3 +8,8 @@ Lei Zou and Lei Chen and M. Tamer Ozsu$K-Automorphism: A General Framework for P
 Yue Wang and Xintao Wu$Preserving Differential Privacy in Degree-correlation based Graph Generation$TDP$6$2$127$NIH Public Access$2013
 Michael Hay and Gerome Miklau and David Jensen and Don Towsley and Philipp Weis$Resisting Structural Re-identification in Anonymized Social Networks$VLDB_journal$1$1$102-114$VLDB Endowment$2008
 Smriti Bhagat and Graham Cormode and Balachander Krishnamurthy and Divesh Srivastava$Class-based Graph Anonymization for Social Network Data$VLDB_journal$2$1$766-777$VLDB Endowment$2009
+J-P Onnela and Jari Saram{\"a}ki and Jorkki Hyv{\"o}nen and Gy{\"o}rgy Szab{\'o} and David Lazer and Kimmo Kaski and J{\'a}nos Kert{\'e}sz and A-L Barab{\'a}si$Structure and Tie Strengths in Mobile Communication Networks$PNAS$104$18$7332-7336$National Academy of Sciences$2007
+Lada A Adamic and Eytan Adar$Friends and Neighbors on the Web$SN$25$3$211-230$Elsevier$2003
+Foteini Baldimtsi and Dimitrios Papadopoulos and Stavros Papadopoulos and Alessandra Scafuro and Nikos Triandopoulos$Secure Computation in Online Social Networks$IACR$2016$948$$$2016
+Giulia Fanti and Peter Kairouz and Sewoong Oh and Kannan Ramchandran and Pramod Viswanath$Hiding the Rumor Source$ITIT$63$10$6679-6713$IEEE$2017
+Lee Humphreys and Phillipa Gill and Balachander Krishnamurthy$Twitter: A Content Analysis of Personal Information$ICS$17$7$843-857$Taylor \& Francis$2014

@@ -154,7 +154,7 @@ def build_bib(filename):
     for i in range(book.shape[0]):
         print i
 
-        ref_key = build_ref_key(arxiv.loc[i])
+        ref_key = build_ref_key(book.loc[i])
         if ref_key in ref_key_dict:
             ref_key_dict[ref_key] += 1
             ref_key += str(ref_key_dict[ref_key])
@@ -170,7 +170,7 @@ def build_bib(filename):
         f.write("author = {"+book.loc[i, 'author']+"},")
         f.write('\n')
         # title        
-        f.write("booktitle = {{"+book.loc[i, 'title']+"}},")
+        f.write("title = {{"+book.loc[i, 'title']+"}},")
         f.write('\n')
         # publisher
         f.write("publisher = {"+book.loc[i, 'publisher']+"},")

@@ -46,3 +46,11 @@ SocInfo$International Conference on Social Informatics
 WOSN$ACM Workshop on Online social networks
 CIKM$ACM International Conference on Information and Knowledge Management
 NIPS$Annual Conference on Neural Information Processing Systems
+SN$Social Networks
+ASONAM$IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+SocialCom$IEEE International Conference on Social Computing
+ASIACCS$ACM Asia Conference on Computer and Communications Security
+IACR$IACR Cryptology ePrint Archive
+ITIT$IEEE Transactions on Information Theory
+ICS$Information, Communication \& Society
+DSN$Annual IEEE/IFIP International Conference on Dependable Systems and Networks

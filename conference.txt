@@ -49,7 +49,7 @@ Gang Wang and Bolun Wang and Tianyi Wang and Ana Nika and Haitao Zheng and Ben Y
 Reza Shokri and Marco Stronati and Congzheng Song and Vitaly Shmatikov$Membership Inference Attacks Against Machine Learning Models$S\&P$3-18$IEEE$2017
 Michael Backes and Pascal Berrang and Mathias Humbert and Praveen Manoharan$Membership Privacy in MicroRNA-based Studies$CCS$319-330$ACM$2016
 Matthew Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2016
-Julian Mcauley and Jure Leskovec$Learning to Discover Social Circles in Ego Networks$NIPS$539-547$NIPS$2012
+Julian McAuley and Jure Leskovec$Learning to Discover Social Circles in Ego Networks$NIPS$539-547$NIPS$2012
 Manuel Egele and Gianluca Stringhini and Christopher Kruegel and Giovanni Vigna$Compa: Detecting Compromised Accounts on Social Networks$NDSS$$Internet Society$2013
 Hao Ma and Dengyong Zhou and Chao Liu and Michael R Lyu and Irwin King$Recommender Systems with Social Regularization$WSDM$287-296$ACM$2011
 David Kempe and Jon Kleinberg and {\'E}va Tardos$Maximizing the Spread of Influence through a Social Network$KDD$137-146$ACM$2003
@@ -74,3 +74,17 @@ Giridhari Venkatadri and Oana Goga and Changtao Zhong and Bimal Viswanath and Kr
 Fred Morstatter and Jurgen Pfeffer and Huan Liu and Kathleen M. Carley$Is the Sample Good Enough? Comparing Data from Twitter's Streaming API with Twitter's Firehose$ICWSM$400-408$AAAI$2013
 Daniele Quercia and Rossano Schifanella and Luca Maria Aiello$The Shortest Path to Happiness: Recommending Beautiful, Quiet, and Happy Routes in the City$HT$116-125$ACM$2014
 Vivek Kulkarni and Rami Al-Rfou and Bryan Perozzi and Steven Skiena$Statistically Significant Detection of Linguistic Change$WWW_old$625-635$ACM$2015
+Yu-Ru Lin and Drew Margolin and Brian Keegan and Andrea Baronchelli and David Lazer$\#Bigbirds Never Die: Understanding Social Dynamics of Emergent Hashtags$ICWSM$370-379$AAAI$2013
+Jisun An and Ingmar Weber$\#greysanatomy versus \#yankees: Demographics and Hashtag Use on Twitter$ICWSM$523-526$AAAI$2016
+Ferda Ofli and Yusuf Aytar and Ingmar Weber and Raggi al Hammouri and Antonio Torralba$Is Saki \#delicious?: The Food Perception Gap on Instagram and Its Relation to Health$WWW_old$509-518$ACM$2017
+Bichen Shi and Georgiana Ifrim and Neil Hurley$Learning-to-Rank for Real-Time High-Precision Hashtag Recommendation for Streaming News$WWW_old$1191-1202$ACM$2016
+Mohsen Jamali and Martin Ester$A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks$RecSys$135-142$ACM$2010
+Enrico Mariconti and Jeremiah Onaolapo and Syed Sharique Ahmad and Nicolas Nikiforou and Manuel Egele and Nick Nikiforakis and Gianluca Stringhini$What’s in a Name? Understanding Profile Name Reuse on Twitter$WWW_old$1161-1170$ACM$2017
+Lisa Singh and Grace Hui Yang and Micah Sherr and Andrew Hian-Cheong and Kevin Tian and Janet Zhu and Sicong Zhang$Public Information Exposure Detection: Helping Users Understand Their Web Footprints$ASONAM$153-161$ACM$2015
+Lujo Bauer and Lorrie Faith Cranor and Saranga Komanduri and Michelle L. Mazurek and Michael K. Reiter and Manya Sleeper and Blase Ur$The Post Anachronism: The Temporal Dimension of Facebook Privacy$WPES$1-12$ACM$2013
+T Ryan Hoens and Marina Blanton and Nitesh V Chawla$A Private and Reliable Recommendation System for Social Networks$SocialCom$816-825$IEEE$2010
+Kurt Thomas and Damon McCoy and Chris Grier and Alek Kolcz and Vern Paxson$Trafficking Fraudulent Accounts: The Role of the Underground Market in Twitter Spam and Abuse$Security$195-210$USENIX$2013
+Brian Thompson and Danfeng Yao$The Union-Split Algorithm and Cluster-Based Anonymization of Social Networks$ASIACCS$218-227$ACM$2009
+Leyla Bilge and Thorsten Strufe and Davide Balzarotti and Engin Kirda$All Your Contacts Are Belong to Us: Automated Identity Theft Attacks on Social Networks$WWW_old$551-560$ACM$2009
+Xiaojing Liao and A. Selcuk Uluagac and Raheem A. Beyah$S-MATCH: Verifiable Privacy-Preserving Profile Matching for Mobile Social Services$DSN$287-298$IEEE$2014
+Paul Marinescu and Chad Parry and Marjori Pomarole and Yuan Tian and Patrick Tague and Ioannis Papagiannis$IVD: Automatic Learning and Enforcement of Authorization Rules in Online Social Networks$S\&P$1094-1109$IEEE$2017
