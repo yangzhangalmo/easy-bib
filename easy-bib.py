@@ -13,7 +13,7 @@ def build_ref_key(bib_item):
     
     return ref_key
 
-def build_bib(filename):
+def build_bib(filename, mode='normal'):
     venue_fullname = pd.read_csv('venue_fullname.txt', sep='$')
 
     conference = pd.read_csv('conference.txt', sep='$')
@@ -29,7 +29,7 @@ def build_bib(filename):
         else:
             ref_key_dict[ref_key] = 1
 
-        f = open(filename+'_generated.bib', 'a')
+        f = open(filename+'_'+mode+'_generated.bib', 'a')
 
         # type of bib
         f.write("@inproceedings{"+ref_key+',')
@@ -42,12 +42,19 @@ def build_bib(filename):
         f.write('\n')
         # venue
         venue = conference.loc[i, 'venue']
-        if venue == 'WWW_old':
-            proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
-                        venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (WWW)'
-        else:
-            proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
-                        venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (' + venue + ')'
+        if mode == 'normal':
+            if venue == 'WWW_old':
+                proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
+                            venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (WWW)'
+            else:
+                proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
+                            venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (' + venue + ')'
+        elif mode == 'simple':
+            if venue == 'WWW_old':
+                proceedings = 'WWW'
+            else:
+                proceedings = venue
+            
         f.write("booktitle = {{"+proceedings+"}},")
         f.write('\n')
         # pages            
@@ -77,7 +84,7 @@ def build_bib(filename):
         else:
             ref_key_dict[ref_key] = 1
 
-        f = open(filename+'_generated.bib', 'a')
+        f = open(filename+'_'+mode+'_generated.bib', 'a')
 
         # type of bib
         f.write("@article{"+ref_key+',')
@@ -128,7 +135,7 @@ def build_bib(filename):
         else:
             ref_key_dict[ref_key] = 1
 
-        f = open(filename+'_generated.bib', 'a')
+        f = open(filename+'_'+mode+'_generated.bib', 'a')
         
         # type of bib
         f.write("@article{"+ref_key+',')
@@ -161,7 +168,7 @@ def build_bib(filename):
         else:
             ref_key_dict[ref_key] = 1
         
-        f = open(filename+'_generated.bib', 'a')
+        f = open(filename+'_'+mode+'_generated.bib', 'a')
         
         # type of bib
         f.write("@book{"+ref_key+',')
@@ -184,8 +191,9 @@ def build_bib(filename):
         f.close()
 
 filename = sys.argv[1]
+mode = sys.argv[2]
 
-if os.path.exists(filename+'_generated.bib'):
-    os.remove(filename+'_generated.bib')
+if os.path.exists(filename+'_'+mode+'_generated.bib'):
+    os.remove(filename+'_'+mode+'_generated.bib')
 
-build_bib(filename)
+build_bib(filename, mode)

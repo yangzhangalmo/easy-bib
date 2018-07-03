@@ -13,3 +13,4 @@ Lada A Adamic and Eytan Adar$Friends and Neighbors on the Web$SN$25$3$211-230$El
 Foteini Baldimtsi and Dimitrios Papadopoulos and Stavros Papadopoulos and Alessandra Scafuro and Nikos Triandopoulos$Secure Computation in Online Social Networks$IACR$2016$948$$$2016
 Giulia Fanti and Peter Kairouz and Sewoong Oh and Kannan Ramchandran and Pramod Viswanath$Hiding the Rumor Source$ITIT$63$10$6679-6713$IEEE$2017
 Lee Humphreys and Phillipa Gill and Balachander Krishnamurthy$Twitter: A Content Analysis of Personal Information$ICS$17$7$843-857$Taylor \& Francis$2014
+Latanya Sweeney$k-Anonymity: A Model for Protecting Privacy$IJUFKS$10$5$557-570$World Scientific$2002

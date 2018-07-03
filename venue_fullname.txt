@@ -54,3 +54,6 @@ IACR$IACR Cryptology ePrint Archive
 ITIT$IEEE Transactions on Information Theory
 ICS$Information, Communication \& Society
 DSN$Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+SIGIR$International ACM SIGIR Conference on Research and Development in Information Retrieval
+IJUFKS$International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+IJCAI$International Joint Conferences on Artifical Intelligence

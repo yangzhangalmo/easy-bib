@@ -1,3 +1,5 @@
 author$title$venue$year
 Alexandra Olteanu and Ingmar Weber and Daniel Gatica-Perez$Characterizing the Demographics Behind the \#BlackLivesMatter Movement$CoRR abs/1512.05671$2016
 Lydia Manikonda and Ghazaleh Beigi and Huan Liu and Subbarao Kambhampati$Twitter for Sparking a Movement, Reddit for Sharing the Moment: \#metoo through the Lens of Social Media$CoRR abs/1803.08022$2018
+Eduardo Graells-Garrido and Mounia Lalmas and Daniele Quercia$Data Portraits: Connecting People of Opposing Views$CoRR abs/1311.4658$2013
+Adam Badawy and Emilio Ferrara and Kristina Lerman$Analyzing the Digital Traces of Political Manipulation: The 2016 Russian Interference Twitter Campaign$CoRR abs/1802.04291$2018
