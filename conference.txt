@@ -93,7 +93,7 @@ Lars Backstrom and Jure Leskovec$Supervised Random Walks: Predicting and Recomme
 Luca Maria Aiello and Nicola Barbieri$Evolution of Ego-networks in Social Media with Link Recommendations$WSDM$111-120$ACM$2017
 Efthymios Kouloumpis and Theresa Wilson and Johanna Moore$Twitter Sentiment Analysis: The Good the Bad and the OMG!$ICWSM$538-541$AAAI$2011
 Michael Conover and Jacob Ratkiewicz and Matthew R Francisco and Bruno Goncalves and Alessandro Flammini and Filippo Menczer$Political Polarization on Twitter$ICWSM$89-96$AAAI$2011
-Oren Tsur and Ari Rappoport$What’s in a Hashtag? Content based Prediction of the Spread of Ideas in Microblogging Communities$WSDM$643-652$ACM$2012
+Oren Tsur and Ari Rappoport$What's in a Hashtag? Content based Prediction of the Spread of Ideas in Microblogging Communities$WSDM$643-652$ACM$2012
 Paolo Ferragina and Francesco Piccinno and Roberto Santoro$On Analyzing Hashtags in Twitter$ICWSM$110-119$AAAI$2015
 Anqi Cui and Min Zhang and Yiqun Liu and Shaoping Ma and Kuo Zhang$Discover Breaking Events with Popular Hashtags in Twitter$CIKM$1794-1798$ACM$2012
 Zongyang Ma and Aixin Sun and Gao Cong$Will This \#Hashtag Be Popular Tomorrow?$SIGIR$1173-1174$ACM$2012
