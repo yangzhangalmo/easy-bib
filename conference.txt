@@ -104,3 +104,10 @@ Edgar Meij and Wouter Weerkamp and Maarten de Rijke$Adding Semantics to Microblo
 Yi Chang and Jiliang Tang and Dawei Yin and Makoto Yamada and Yan Liu$Timeline Summarization from Social Media with Life Cycle Models$IJCAI$3698-3704$IJCAI$2016
 Su Mon Kywe and Tuan-Anh Hoang and Ee-Peng Lim and Feida Zhu$On Recommending Hashtags in Twitter Networks$SocInfo$337-350$Springer$2012
 Cheng-Te Li and Chien-Yuan Wang and Chien-Lin Tseng and Shou-De Lin$MemeTube: A Sentiment-based Audiovisual System for Analyzing and Displaying Microblog Messages$ACL$32-37$ACL$2011
+Xiao Huang and Qingquan Song and Jundong Li and Xia Hu$Exploring Expert Cognition for Attributed Network Embedding$WSDM$270-278$ACM$2018
+Yao Ma and Zhaochun Ren and Ziheng Jiang and Jiliang Tang and Dawei Yin$Multi-Dimensional Network Embedding with Hierarchical Structure$WSDM$387-395$ACM$2018
+Jiezhong Qiu and Yuxiao Dong and Hao Ma and Jian Li and Kuansan Wang and Jie Tang$Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec$WSDM$459-467$ACM$2018
+Suhas Ranganath and Ghazaleh Beigi and Huan Liu$Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning$WSDM$468-476$ACM$2018
+Meng Qu and Jian Tang and Jiawei Han$Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning$WSDM$468-476$ACM$2018
+Hongwei Wang and Fuzheng Zhang and Min Hou and Xing Xie and Minyi Guo and Qi Liu$SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction$WSDM$592-600$ACM$2018
+Ming Gao and Leihui Chen and Xiangnan He and Aoying Zhou$BiNE: Bipartite Network Embedding$SIGIR$715-724$ACM$2018

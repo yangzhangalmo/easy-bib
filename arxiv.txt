@@ -3,3 +3,4 @@ Alexandra Olteanu and Ingmar Weber and Daniel Gatica-Perez$Characterizing the De
 Lydia Manikonda and Ghazaleh Beigi and Huan Liu and Subbarao Kambhampati$Twitter for Sparking a Movement, Reddit for Sharing the Moment: \#metoo through the Lens of Social Media$CoRR abs/1803.08022$2018
 Eduardo Graells-Garrido and Mounia Lalmas and Daniele Quercia$Data Portraits: Connecting People of Opposing Views$CoRR abs/1311.4658$2013
 Adam Badawy and Emilio Ferrara and Kristina Lerman$Analyzing the Digital Traces of Political Manipulation: The 2016 Russian Interference Twitter Campaign$CoRR abs/1802.04291$2018
+Rex Ying and Jiaxuan You and Christopher Morris and Xiang Ren and William L. Hamilton and Jure Leskovec$Hierarchical Graph Representation Learning with Differentiable Pooling$CoRR abs/1806.08804$2018
