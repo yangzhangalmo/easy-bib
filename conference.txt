@@ -4,10 +4,10 @@ Yang Zhang and Mathias Humbert and Tahleen Rahman and Cheng-Te Li and Jun Pang a
 Pascal Berrang and Mathias Humbert and Yang Zhang and Irina Lehmann and Roland Eils and Michael Backes$Dissecting Privacy Risks in Biomedical Data$Euro S\&P$$IEEE$2018
 Michael Backes and Pascal Berrang and Mathias Humbert and Praveen Manoharan$Membership Privacy in MicroRNA-based Studies$CCS$319-330$ACM$2016
 Keith Bonawitz and Vladimir Ivanov and Ben Kreuter and Antonio Marcedone and H. Brendan McMahan and Sarvar Patel and Daniel Ramage and Aaron Segal and Karn Seth$Practical Secure Aggregation for Privacy-Preserving Machine Learning$CCS$1175-1191$ACM$2017
-Raphael Bost and Raluca Ada Popa and  Stephen Tu and Shafi Goldwasser$Machine Learning Classification over Encrypted Data$NDSS$$Internet Society$2015
+Raphael Bost and Raluca Ada Popa and Stephen Tu and Shafi Goldwasser$Machine Learning Classification over Encrypted Data$NDSS$$Internet Society$2015
 Nicholas Carlini and David Wagner$Towards Evaluating the Robustness of Neural Networks$S\&P$39-57$IEEE$2017
 David Evans and Yan Huang and Jonathan Katz and Lior Malka$Efficient Privacy-Preserving Biometric Identification$NDSS$$Internet Society$2011
-Matthew Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2014
+Matt Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2014
 Jinyuan Jia and Neil Zhenqiang Gong$AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning$Security$$USENIX$2018
 Apostolos Pyrgelis and Carmela Troncoso and Emiliano De Cristofaro$Knock Knock, Who's There? Membership Inference on Aggregate Location Data$NDSS$$Internet Society$2018
 Reza Shokri and Marco Stronati and Congzheng Song and Vitaly Shmatikov$Membership Inference Attacks Against Machine Learning Models$S\&P$3-18$IEEE$2017
@@ -46,9 +46,6 @@ Hongjian Wang and Zhenhui Li and Wang-Chien Lee$PGT: Measuring Mobility Relation
 Bimal Viswanath and Alan Mislove and Meeyoung Cha and Krishna P. Gummadi$On the Evolution of User Interaction in Facebook$WOSN$37-42$ACM$2009
 Gang Wang and Manish Mohanlal and Christo Wilson and Xiao Wang and Miriam Metzger and Haitao Zheng and Ben Y. Zhao$Social Turing Tests: Crowdsourcing Sybil Detection$NDSS$$Internet Society$2013
 Gang Wang and Bolun Wang and Tianyi Wang and Ana Nika and Haitao Zheng and Ben Y. Zhao$Whispers in the Dark: Analysis of an Anonymous Social Network$IMC$137-150$ACM$2014
-Reza Shokri and Marco Stronati and Congzheng Song and Vitaly Shmatikov$Membership Inference Attacks Against Machine Learning Models$S\&P$3-18$IEEE$2017
-Michael Backes and Pascal Berrang and Mathias Humbert and Praveen Manoharan$Membership Privacy in MicroRNA-based Studies$CCS$319-330$ACM$2016
-Matthew Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2016
 Julian McAuley and Jure Leskovec$Learning to Discover Social Circles in Ego Networks$NIPS$539-547$NIPS$2012
 Manuel Egele and Gianluca Stringhini and Christopher Kruegel and Giovanni Vigna$Compa: Detecting Compromised Accounts on Social Networks$NDSS$$Internet Society$2013
 Hao Ma and Dengyong Zhou and Chao Liu and Michael R Lyu and Irwin King$Recommender Systems with Social Regularization$WSDM$287-296$ACM$2011
@@ -111,3 +108,30 @@ Suhas Ranganath and Ghazaleh Beigi and Huan Liu$Curriculum Learning for Heteroge
 Meng Qu and Jian Tang and Jiawei Han$Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning$WSDM$468-476$ACM$2018
 Hongwei Wang and Fuzheng Zhang and Min Hou and Xing Xie and Minyi Guo and Qi Liu$SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction$WSDM$592-600$ACM$2018
 Ming Gao and Leihui Chen and Xiangnan He and Aoying Zhou$BiNE: Bipartite Network Embedding$SIGIR$715-724$ACM$2018
+Battista Biggio and Igino Corona and Davide Maiorca and Blaine Nelson and Nedim Srndic and Pavel Laskov and Giorgio Giacinto and Fabio Roli$Evasion Attacks against Machine Learning at Test Time$ECML/PKDD$387-402$Springer$2013
+Florian Tram\'{e}r and Fan Zhang and Ari Juels and Michael K. Reiter and Thomas Ristenpart$Stealing Machine Learning Models via Prediction APIs$Security$601-618$USENIX$2016
+Samuel Yeom and Irene Giacomelli and Matt Fredrikson and Somesh Jha$Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting$CSF$$IEEE$2018
+Nicolas Papernot and Patrick McDaniel and Arunesh Sinha and Michael Wellman$SoK: Towards the Science of Security and Privacy in Machine Learning$Euro S\&P$$IEEE$2018
+Shai Avidan and Moshe Butman$Blind Vision$ECCV$1-13$Springer$2006
+Yossi Adi and Carsten Baum and Moustapha Cisse and Benny Pinkas and Joseph Keshet$Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring$Security$$USENIX$2018
+Jialong Zhang and Zhongshu Gu and Jiyong Jang and Hui Wu and Marc Ph. Stoecklin and Heqing Huang and Ian Molloy$Protecting Intellectual Property of Deep Neural Networks with Watermarking$ASIACCS$159-172$ACM$2018
+Aditi Raghunathan and Jacob Steinhardt and Percy Liang$Certified Defenses against Adversarial Examples$ICLR$$$2018
+Battista Biggio and Blaine Nelson and Pavel Laskov$Poisoning Attacks against Support Vector Machines$ICML$$JMLR$2012
+Xiaowei Huang and Marta Kwiatkowska and Sen Wang and Min Wu$Safety Verification of Deep Neural Networks$CAV$3-29$Springer$2017
+Shike Mei and Xiaojin Zhu$Using Machine Teaching to Identify Optimal Training-Set Attacks on Machine Learners$AAAI$2871-2877$AAAI$2015
+Daniel Lowd and Christopher Meek$Adversarial Learning$KDD$641-647$ACM$2005
+Binghui Wang and Neil Zhenqiang Gong$Stealing Hyperparameters in Machine Learning$S\&P$$IEEE$2018
+Seong Joon Oh and Max Augustin and Bernt Schiele and Mario Fritz$Towards Reverse-Engineering Black-Box Neural Networks$ICLR$$$2018
+Olga Ohrimenko and Felix Schuster and Cedric Fournet and Aastha Mehta and Sebastian Nowozin and Kapil Vaswani and Manuel Costa$Oblivious Multi-Party Machine Learning on Trusted Processors$Security$619-636$USENIX$2016
+Sangho Lee and Ming-Wei Shih and Prasun Gera and Taesoo Kim and Hyesoon Kim and Marcus Peinado$Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing$Security$557-574$USENIX$2017
+Manuel Barbosa and Bernardo Portela and Guillaume Scerri and Bogdan Warinschi$Foundations of Hardware-Based Attested Computation and Application to SGX$Euro S\&P$245-260$IEEE$2016
+Ben Fisch and Dhinakaran Vinayagamurthy and Dan Boneh and Sergey Gorbunov$Iron: Functional Encryption using Intel SGX$CCS$765-782$ACM$2017
+Rafael Pass and Elaine Shi and Florian Tram\'{e}r$Formal Abstractions for Attested Execution Secure Processors$EUROCRYPT$260-289$Springer$2017
+Victor Costan and Ilia Lebedev and Srinivas Devadas$Sanctum: Minimal Hardware Extensions for Strong Software Isolation$Security$857-874$USENIX$2016
+Ernie Brickell and Jiangtao Li$Enhanced Privacy ID from Bilinear Pairing for Hardware Authentication and Attestation$SocialCom$768-775$IEEE$2010
+JP Aumasson and Luis Merino$SGX Secure Enclaves in Practice: Security and Crypto Review$Black Hat$$$2016
+Raoul Strackx and Frank Piessens$Ariadne: A Minimal Approach to State Continuity$Security$875-892$USENIX$2016
+Sinisa Matetic and Mansoor Ahmed and Kari Kostiainen and Aritra Dhar and David Sommer and Arthur Gervais and Ari Juels and Srdjan Capkun$ROTE: Rollback Protection for Trusted Execution$Security$1289-1306$USENIX$2017
+Wenhao Wang and Guoxing Chen and Xiaorui Pan and Yinqian Zhang and XiaoFeng Wang$Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX$Security$2421-2434$ACM$2017
+Ferdinand Brasser and Urs Muller and Alexandra Dmitrienko and Kari Kostiainen and Srdjan Capkun and Ahmad-Reza Sadeghi$Software Grand Exposure: SGX Cache Attacks Are Practical$WOOT$$USENIX$2017
+Matt Fredrikson and Somesh Jha and Thomas Ristenpart$Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures$CCS$1322-1333$ACM$2015

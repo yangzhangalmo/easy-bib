@@ -51,19 +51,28 @@ def build_bib(filename, mode='normal'):
                             venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (' + venue + ')'
         elif mode == 'simple':
             if venue == 'WWW_old':
-                proceedings = 'WWW'
+                proceedings = "Proc.\ "+'WWW'
             else:
-                proceedings = venue
+                proceedings = "Proc.\ "+venue
             
         f.write("booktitle = {{"+proceedings+"}},")
         f.write('\n')
-        # pages            
-        if type(conference.loc[i, 'pages'])!=float:
-            f.write("pages = {"+conference.loc[i, 'pages']+"},")
+
+        if mode == 'normal':
+            # pages            
+            if type(conference.loc[i, 'pages'])!=float:
+                f.write("pages = {"+conference.loc[i, 'pages']+"},")
+                f.write('\n')
+            # publisher        
+            if type(conference.loc[i, 'publisher'])!=float:
+                f.write("publisher = {"+conference.loc[i, 'publisher']+"},")
+                f.write('\n')
+        elif mode == 'simple':
+            # pages            
+            f.write("pages = {},")
             f.write('\n')
-        # publisher        
-        if type(conference.loc[i, 'publisher'])!=float:
-            f.write("publisher = {"+conference.loc[i, 'publisher']+"},")
+            # publisher        
+            f.write("publisher = {},")
             f.write('\n')
         # year
         f.write("year = {"+str(conference.loc[i, 'year'])+"}")

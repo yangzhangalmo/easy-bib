@@ -4,3 +4,23 @@ Lydia Manikonda and Ghazaleh Beigi and Huan Liu and Subbarao Kambhampati$Twitter
 Eduardo Graells-Garrido and Mounia Lalmas and Daniele Quercia$Data Portraits: Connecting People of Opposing Views$CoRR abs/1311.4658$2013
 Adam Badawy and Emilio Ferrara and Kristina Lerman$Analyzing the Digital Traces of Political Manipulation: The 2016 Russian Interference Twitter Campaign$CoRR abs/1802.04291$2018
 Rex Ying and Jiaxuan You and Christopher Morris and Xiang Ren and William L. Hamilton and Jure Leskovec$Hierarchical Graph Representation Learning with Differentiable Pooling$CoRR abs/1806.08804$2018
+Rock Stevens and Octavian Suciu and Andrew Ruef and Sanghyun Hong and Michael Hicks and Tudor Dumitra\c{s}$Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning$CoRR abs/1701.04739$2017
+Jamie Hayes and Luca Melis and George Danezis and Emiliano De Cristofaro$LOGAN: Evaluating Privacy Leakage of Generative Models Using Generative Adversarial Networks$CoRR abs/1705.07663$2017
+Ahmed Salem and Yang Zhang and Mathias Humbert and Mario Fritz and Michael Backes$ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models$CoRR abs/1806.01246$2018
+Mika Juuti and Sebastian Szyller and Alexey Dmitrenko and Samuel Marchal and N. Asokan$PRADA: Protecting against DNN Model Stealing Attacks$CoRR abs/1805.02628$2018
+Christian Szegedy and Wojciech Zaremba and Ilya Sutskever and Joan Bruna and Dumitru Erhan and Ian Goodfellow and Rob Fergus$Intriguing Properties of Neural Networks$CoRR abs/1312.6199$2013
+Nicholas Carlini and David Wagner$Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods$CoRR abs/1705.07263$2017
+Aleksander Madry and Aleksandar Makelov and Ludwig Schmidt and Dimitris Tsipras and Adrian Vladu$Towards Deep Learning Models Resistant to Adversarial Attacks$CoRR abs/1706.06083$2017
+Nicolas Papernot and Patrick McDaniel and Ian Goodfellow$Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples$CoRR abs/1605.07277$2016
+Erwan Le Merrer and Patrick Perez and Gilles Tr\'{e}dan$Adversarial Frontier Stitching for Remote Neural Network Watermarking$CoRR abs/1711.01894$2017
+Florian Tramer and Dan Boneh$Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware$CoRR abs/1806.03287$2018
+Giuseppe Ateniese and Giovanni Felici and Luigi V. Mancini and Angelo Spognardi and Antonio Villani and Domenico Vitali$Hacking Smart Machines with Smarter Ones: How to Extract Meaningful Data from Machine Learning Classifiers$CoRR abs/1306.4447$2013
+Tribhuvanesh Orekondy and Seong Joon Oh and Bernt Schiele and Mario Fritz$Understanding and Controlling User Linkability in Decentralized Learning$CoRR abs/1805.05838$2018
+Luca Melis and Congzheng Song and Emiliano De Cristofaro and Vitaly Shmatikov$Inference Attacks Against Collaborative Learning$CoRR abs/1805.04049$2018
+Tyler Hunt and Congzheng Song and Reza Shokri and Vitaly Shmatikov and Emmett Witchel$Chiron: Privacy-preserving Machine Learning as a Service$CoRR abs/1803.05961$2018
+Zhongshu Gu and Heqing Huang and Jialong Zhang and Dong Su and Ankita Lamba and Dimitrios Pendarakis and Ian Molloy$Securing Input Data of Deep Learning Inference Systems via Partitioned Enclave Execution$CoRR abs/1807.00969$2018
+Nick Hynes and Raymond Cheng and Dawn Song$Efficient Deep Learning on Multi-Source Private Data$CoRR abs/1807.06689$2018
+Ion Stoica and Dawn Song and Raluca Ada Popa and David Paerson and Michael W. Mahoney and Randy Katz and Anthony D. Joseph and Michael Jordan and Joseph M. Hellerstein and Joseph Gonzalez and Ken Goldberg and Ali Ghodsi and David Culler and Pieter Abbeel$A Berkeley View of Systems Challenges for AI$CoRR abs/1712.05855$2017
+Dario Amodei and Chris Olah and Jacob Steinhardt and Paul Christiano and John Schulman and Dan Man\'e$Concrete Problems in AI Safety$CoRR abs/1606.06565$2016
+Andrew G. Howard and Menglong Zhu and Bo Chen and Dmitry Kalenichenko and Weijun Wang and Tobias Weyand and Marco Andreetto and Hartwig Adam$MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications$CoRR abs/1704.04681$2017
+Karen Simonyan and Andrew Zisserman$Very Deep Convolutional Networks for Large-Scale Image Recognition$CoRR abs/1409.1556$2014

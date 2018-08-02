@@ -57,3 +57,12 @@ DSN$Annual IEEE/IFIP International Conference on Dependable Systems and Networks
 SIGIR$International ACM SIGIR Conference on Research and Development in Information Retrieval
 IJUFKS$International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
 IJCAI$International Joint Conferences on Artifical Intelligence
+ECML/PKDD$European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+CSF$IEEE Computer Security Foundations Symposium
+ECCV$European Conference on Computer Vision
+ICML$International Conference on Machine Learning
+CAV$International Conference on Computer Aided Verification
+AAAI$AAAI Conference on Artificial Intelligence
+EUROCRYPT$Annual International Conference on the Theory and Applications of Cryptographic Techniques
+Black Hat$Black Hat
+WOOT$USENIX Workshop on Offensive Technologies
