@@ -13,7 +13,7 @@ def build_ref_key(bib_item):
     
     return ref_key
 
-def build_bib(filename, mode='normal'):
+def build_bib(mode='normal'):
     venue_fullname = pd.read_csv('venue_fullname.txt', sep='$')
 
     conference = pd.read_csv('conference.txt', sep='$')
@@ -29,7 +29,7 @@ def build_bib(filename, mode='normal'):
         else:
             ref_key_dict[ref_key] = 1
 
-        f = open(filename+'_'+mode+'_generated.bib', 'a')
+        f = open(mode+'_generated.bib', 'a')
 
         # type of bib
         f.write("@inproceedings{"+ref_key+',')
@@ -93,7 +93,7 @@ def build_bib(filename, mode='normal'):
         else:
             ref_key_dict[ref_key] = 1
 
-        f = open(filename+'_'+mode+'_generated.bib', 'a')
+        f = open(mode+'_generated.bib', 'a')
 
         # type of bib
         f.write("@article{"+ref_key+',')
@@ -144,7 +144,7 @@ def build_bib(filename, mode='normal'):
         else:
             ref_key_dict[ref_key] = 1
 
-        f = open(filename+'_'+mode+'_generated.bib', 'a')
+        f = open(mode+'_generated.bib', 'a')
         
         # type of bib
         f.write("@article{"+ref_key+',')
@@ -177,7 +177,7 @@ def build_bib(filename, mode='normal'):
         else:
             ref_key_dict[ref_key] = 1
         
-        f = open(filename+'_'+mode+'_generated.bib', 'a')
+        f = open(mode+'_generated.bib', 'a')
         
         # type of bib
         f.write("@book{"+ref_key+',')
@@ -199,10 +199,9 @@ def build_bib(filename, mode='normal'):
         f.write('\n')    
         f.close()
 
-filename = sys.argv[1]
-mode = sys.argv[2]
+mode = sys.argv[1]
 
-if os.path.exists(filename+'_'+mode+'_generated.bib'):
-    os.remove(filename+'_'+mode+'_generated.bib')
+if os.path.exists(mode+'_generated.bib'):
+    os.remove(mode+'_generated.bib')
 
-build_bib(filename, mode)
+build_bib(mode)
