@@ -24,3 +24,5 @@ Ion Stoica and Dawn Song and Raluca Ada Popa and David Paerson and Michael W. 
 Dario Amodei and Chris Olah and Jacob Steinhardt and Paul Christiano and John Schulman and Dan Man\'e$Concrete Problems in AI Safety$CoRR abs/1606.06565$2016
 Andrew G. Howard and Menglong Zhu and Bo Chen and Dmitry Kalenichenko and Weijun Wang and Tobias Weyand and Marco Andreetto and Hartwig Adam$MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications$CoRR abs/1704.04681$2017
 Karen Simonyan and Andrew Zisserman$Very Deep Convolutional Networks for Large-Scale Image Recognition$CoRR abs/1409.1556$2014
+Yunhui Long and Vincent Bindschaedler and Carl A. Gunter$Towards Measuring Membership Privacy$CoRR abs/1712.09136$2017
+Yunhui Long and Vincent Bindschaedler and Lei Wang and Diyue Bu and Xiaofeng Wang and Haixu Tang and Carl A. Gunter and Kai Chen$Understanding Membership Inferences on Well-Generalized Learning Models$CoRR abs/1802.04889$2018

@@ -135,3 +135,17 @@ Sinisa Matetic and Mansoor Ahmed and Kari Kostiainen and Aritra Dhar and David S
 Wenhao Wang and Guoxing Chen and Xiaorui Pan and Yinqian Zhang and XiaoFeng Wang$Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX$Security$2421-2434$ACM$2017
 Ferdinand Brasser and Urs Muller and Alexandra Dmitrienko and Kari Kostiainen and Srdjan Capkun and Ahmad-Reza Sadeghi$Software Grand Exposure: SGX Cache Attacks Are Practical$WOOT$$USENIX$2017
 Matt Fredrikson and Somesh Jha and Thomas Ristenpart$Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures$CCS$1322-1333$ACM$2015
+Ian Goodfellow and Jonathon Shlens and Christian Szegedy$Explaining and Harnessing Adversarial Examples$ICLR$$$2015
+Bo Li and Yevgeniy Vorobeychik$Scalable Optimization of Randomized Operational  Decisions in Adversarial Classification Settings$AISTATS$599-607$PMLR$2015
+Yevgeniy Vorobeychik and Bo Li$Optimal Randomized Classification in Adversarial Settings$AAMAS$485-492$$2014
+Nicolas Papernot and Patrick D. McDaniel and Ian Goodfellow and Somesh Jha and Z. Berkay Celik and Ananthram Swami$Practical Black-Box Attacks Against Machine Learning$ASIACCS$506-519$ACM$2017
+Florian Tram{\`e}r and Alexey Kurakin and Nicolas Papernot and Ian Goodfellow and Dan Boneh and Patrick McDaniel$Ensemble Adversarial Training: Attacks and Defenses$ICLR$$$2017
+Nicolas Papernot and Patrick D. McDaniel and Somesh Jha and  Matt Fredrikson and Z. Berkay Celik and Ananthram Swami$The Limitations of Deep Learning in Adversarial Settings$Euro S\&P$372-387$IEEE$2016
+Weilin Xu and David Evans and Yanjun Qi$Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks$NDSS$$Internet Society$2018
+Jian Liu and Mika Juuti and Yao Lu and N. Asokan$Oblivious Neural Network Predictions via MiniONN Transformations$CCS$619-631$ACM$2017
+Yan Huang and Lior Malka and David Evans and Jonathan Katz$Efficient Privacy-Preserving Biometric Identification$NDSS$$Internet Society$2011
+Nathan Dowlin and Ran Gilad-Bachrach and Kim Laine and Kristin Lauter and Michael Naehrig and John Wernsing$CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy$ICML$201-210$JMLR$2016
+Michael Backes and Pascal Berrang and Matthias Bieg and Roland Eils and Carl Herrmann and Mathias Humbert and Irina Lehmann$Identifying Personal DNA Methylation Profiles by Genotype Inference$S\&P$957-976$IEEE$2017
+Payman Mohassel and Yupeng Zhang$SecureML: A System for Scalable Privacy-Preserving Machine Learning$S\&P$19-38$IEEE$2017
+Seong Joon Oh and Mario Fritz and Bernt Schiele$Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective$ICCV$1482-1491$IEEE$2017
+Congzheng Song and Thomas Ristenpart and Vitaly Shmatikov$Machine Learning Models that Remember Too Much$CCS$587-601$ACM$2017

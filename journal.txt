@@ -14,3 +14,7 @@ Foteini Baldimtsi and Dimitrios Papadopoulos and Stavros Papadopoulos and Alessa
 Giulia Fanti and Peter Kairouz and Sewoong Oh and Kannan Ramchandran and Pramod Viswanath$Hiding the Rumor Source$ITIT$63$10$6679-6713$IEEE$2017
 Lee Humphreys and Phillipa Gill and Balachander Krishnamurthy$Twitter: A Content Analysis of Personal Information$ICS$17$7$843-857$Taylor \& Francis$2014
 Latanya Sweeney$k-Anonymity: A Model for Protecting Privacy$IJUFKS$10$5$557-570$World Scientific$2002
+Dingqi Yang and Daqing Zhang and Bingqing Qu$Participatory Cultural Mapping Based on Collective Behavior Data in Location-Based Social Networks$TIST$7$3$$ACM$2016
+Nils Homer and Szabolcs Szelinger and Margot Redman and David Duggan and Waibhav Tembe and Jill Muehling and John V. Pearson and Dietrich A. Stephan and Stanley F. Nelson and David W. Craig$Resolving Individuals Contributing Trace Amounts of DNA to Highly Complex Mixtures Using High-Density SNP Genotyping Microarrays$PlosGene$4$8$1-9$Public Library of Science$2008
+Zekeriya Erkin and Martin Franz and Jorge Guajardo and Stefan Katzenbeisser and Inald Lagendijk and Tomas Toft$Privacy-Preserving Face Recognition$PETS$$$$$2009
+Adri{\`a} Gasc{\'o}n and Phillipp Schoppmann and Borja Balle and Mariana Raykova and Jack Doerner and Samee Zahur and David Evans$rivacy-Preserving Distributed Linear Regression on High-Dimensional Data$PETS$$$$$2017

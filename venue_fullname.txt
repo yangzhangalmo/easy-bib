@@ -66,3 +66,8 @@ AAAI$AAAI Conference on Artificial Intelligence
 EUROCRYPT$Annual International Conference on the Theory and Applications of Cryptographic Techniques
 Black Hat$Black Hat
 WOOT$USENIX Workshop on Offensive Technologies
+TIST$ACM Transactions on Intelligent Systems and Technology
+PlosGene$PLOS Genetics
+AISTATS$International Conference on Artificial Intelligence and Statistics
+AAMAS$International Conference on Autonomous Agents and Multi-agent Systems
+PETS$Symposium on Privacy Enhancing Technologies Symposium
