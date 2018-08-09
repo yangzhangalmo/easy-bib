@@ -58,19 +58,22 @@ def build_bib(mode='normal'):
         f.write("booktitle = {{"+proceedings+"}},")
         f.write('\n')
 
+        if type(conference.loc[i, 'pages'])!=float:
+            f.write("pages = {"+conference.loc[i, 'pages']+"},")
+            f.write('\n')
         if mode == 'normal':
-            # pages            
-            if type(conference.loc[i, 'pages'])!=float:
-                f.write("pages = {"+conference.loc[i, 'pages']+"},")
-                f.write('\n')
+#            # pages            
+#            if type(conference.loc[i, 'pages'])!=float:
+#                f.write("pages = {"+conference.loc[i, 'pages']+"},")
+#                f.write('\n')
             # publisher        
             if type(conference.loc[i, 'publisher'])!=float:
                 f.write("publisher = {"+conference.loc[i, 'publisher']+"},")
                 f.write('\n')
         elif mode == 'simple':
-            # pages            
-            f.write("pages = {},")
-            f.write('\n')
+#            # pages            
+#            f.write("pages = {},")
+#            f.write('\n')
             # publisher        
             f.write("publisher = {},")
             f.write('\n')

@@ -39,7 +39,7 @@ APWeb$Asia-Pacific Web Conference
 SIGMOD$ACM SIGMOD International Conference on Management of Data
 COMPSAC$Annual IEEE Computers, Software and Applications Conference
 VLDB_journal$Proceedings of the VLDB Endowment
-Security$USENIX Security Symposium
+USENIX Security$USENIX Security Symposium
 ICWSM$International Conference on Weblogs and Social Media
 PNAS$Proceedings of the National Academy of Sciences
 SocInfo$International Conference on Social Informatics
@@ -71,3 +71,4 @@ PlosGene$PLOS Genetics
 AISTATS$International Conference on Artificial Intelligence and Statistics
 AAMAS$International Conference on Autonomous Agents and Multi-agent Systems
 PETS$Symposium on Privacy Enhancing Technologies Symposium
+ACSAC$Annual Computer Security Applications Conference

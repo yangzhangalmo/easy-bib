@@ -20,9 +20,13 @@ Luca Melis and Congzheng Song and Emiliano De Cristofaro and Vitaly Shmatikov$In
 Tyler Hunt and Congzheng Song and Reza Shokri and Vitaly Shmatikov and Emmett Witchel$Chiron: Privacy-preserving Machine Learning as a Service$CoRR abs/1803.05961$2018
 Zhongshu Gu and Heqing Huang and Jialong Zhang and Dong Su and Ankita Lamba and Dimitrios Pendarakis and Ian Molloy$Securing Input Data of Deep Learning Inference Systems via Partitioned Enclave Execution$CoRR abs/1807.00969$2018
 Nick Hynes and Raymond Cheng and Dawn Song$Efficient Deep Learning on Multi-Source Private Data$CoRR abs/1807.06689$2018
-Ion Stoica and Dawn Song and Raluca Ada Popa and David Paerson and Michael W. Mahoney and Randy Katz and Anthony D. Joseph and Michael Jordan and Joseph M. Hellerstein and Joseph Gonzalez and Ken Goldberg and Ali Ghodsi and David Culler and Pieter Abbeel$A Berkeley View of Systems Challenges for AI$CoRR abs/1712.05855$2017
+Ion Stoica and Dawn Song and Raluca Ada Popa and David Patterson and Michael W. Mahoney and Randy Katz and Anthony D. Joseph and Michael Jordan and Joseph M. Hellerstein and Joseph Gonzalez and Ken Goldberg and Ali Ghodsi and David Culler and Pieter Abbeel$A Berkeley View of Systems Challenges for AI$CoRR abs/1712.05855$2017
 Dario Amodei and Chris Olah and Jacob Steinhardt and Paul Christiano and John Schulman and Dan Man\'e$Concrete Problems in AI Safety$CoRR abs/1606.06565$2016
 Andrew G. Howard and Menglong Zhu and Bo Chen and Dmitry Kalenichenko and Weijun Wang and Tobias Weyand and Marco Andreetto and Hartwig Adam$MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications$CoRR abs/1704.04681$2017
 Karen Simonyan and Andrew Zisserman$Very Deep Convolutional Networks for Large-Scale Image Recognition$CoRR abs/1409.1556$2014
 Yunhui Long and Vincent Bindschaedler and Carl A. Gunter$Towards Measuring Membership Privacy$CoRR abs/1712.09136$2017
 Yunhui Long and Vincent Bindschaedler and Lei Wang and Diyue Bu and Xiaofeng Wang and Haixu Tang and Carl A. Gunter and Kai Chen$Understanding Membership Inferences on Well-Generalized Learning Models$CoRR abs/1802.04889$2018
+Bita Darvish Rouhani and Huili Chen and Farinaz Koushanfar$DeepSigns: A Generic Watermarking Framework for IP Protection of Deep Learning Models$CoRR abs/1804.00750$2018
+Bita Darvish Rouhani and M. Sadegh Riazi and Farinaz Koushanfar$DeepSecure: Scalable Provably-Secure Deep Learning$CoRR abs/1705.08963$2017
+Octavian Suciu and Radu M\u{a}rginean and Yi\u{g}itcan Kaya and Hal Daum\'e III and Tudor Dumitra\c{s}$When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks$CoRR abs/1803.06975$2018
+Ghazaleh Beigi and Huan Liu$Privacy in Social Media: Identification, Mitigation and Applications$CoRR abs/1808.02191$2018

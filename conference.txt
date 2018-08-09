@@ -7,8 +7,8 @@ Keith Bonawitz and Vladimir Ivanov and Ben Kreuter and Antonio Marcedone and H. 
 Raphael Bost and Raluca Ada Popa and Stephen Tu and Shafi Goldwasser$Machine Learning Classification over Encrypted Data$NDSS$$Internet Society$2015
 Nicholas Carlini and David Wagner$Towards Evaluating the Robustness of Neural Networks$S\&P$39-57$IEEE$2017
 David Evans and Yan Huang and Jonathan Katz and Lior Malka$Efficient Privacy-Preserving Biometric Identification$NDSS$$Internet Society$2011
-Matt Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$Security$17-32$USENIX$2014
-Jinyuan Jia and Neil Zhenqiang Gong$AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning$Security$$USENIX$2018
+Matt Fredrikson and Eric Lantz and Somesh Jha and Simon Lin and David Page and Thomas Ristenpart$Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing$USENIX Security$17-32$USENIX$2014
+Jinyuan Jia and Neil Zhenqiang Gong$AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning$USENIX Security$$USENIX$2018
 Apostolos Pyrgelis and Carmela Troncoso and Emiliano De Cristofaro$Knock Knock, Who's There? Membership Inference on Aggregate Location Data$NDSS$$Internet Society$2018
 Reza Shokri and Marco Stronati and Congzheng Song and Vitaly Shmatikov$Membership Inference Attacks Against Machine Learning Models$S\&P$3-18$IEEE$2017
 Yuxiao Dong and Jie Tang and Sen Wu and Jilei Tian and Nittiest V Chawla and Jinghai Rao and Huanhuan Cao$Link Prediction and Recommendation across Heterogeneous Social Networks$ICDM$181-190$IEEE$2012
@@ -54,14 +54,14 @@ Kun Liu and Evimaria Terzi$Towards Identity Anonymization on Graphs$SIGMOD$93-10
 Alessandra Sala and Xiaohan Zhao and Christo Wilson and Haitao Zheng and Ben Y. Zhao$Sharing Graphs using Differentially Private Graph Models$IMC$81-98$ACM$2011
 Prateek Mittal and Charalampos Papamanthou and Dawn Song$Preserving Link Privacy in Social Network Based Systems$NDSS$$Internet Society$2013
 Arvind Narayanan and Vitaly Shmatikov$De-anonymizing Social Networks$S\&P$173-187$IEEE$2009
-Shouling Ji and Weiqing Li and Prateek Mittal and Xin Hu and Raheem Beyah$SecGraph: A Uniform and Open-source Evaluation System for Graph Data Anonymization and De-anonymization$Security$303-318$USENIX$2015
+Shouling Ji and Weiqing Li and Prateek Mittal and Xin Hu and Raheem Beyah$SecGraph: A Uniform and Open-source Evaluation System for Graph Data Anonymization and De-anonymization$USENIX Security$303-318$USENIX$2015
 Mudhakar Srivatsa and Mike Hicks$Deanonymizing Mobility Traces: Using Social Network as a Side-channel$CCS$628-637$ACM$2012
 Lars Backstrom and Cynthia Dwork and Jon Kleinberg$Wherefore Art Thou R3579X? Anonymized Social Networks, Hidden Patterns, and Structural Steganography$WWW_old$181-190$ACM$2007
 Qian Xiao and Rui Chen and Kian-Lee Tan$Differentially Private Network Data Release via Structural Inference$KDD$911-920$ACM$2014
 Bin Zhou and Jian Pei$Preserving Privacy in Social Networks Against Neighborhood Attacks$ICDE$506-515$IEEE$2008
 Davide Proserpio and Sharon Goldberg and Frank McSherry$A Workflow for Differentially-private Graph Synthesis$WOSN$13-18$ACM$2012
-Bimal Viswanath and M. Ahmad Bashir and Mark Crovella and Saikat Guha and Krishna P. Gummadi and Balachander Krishnamurthy and Alan Mislove$Towards Detecting Anomalous User Behavior in Online Social Networks$Security$223-238$USENIX$2014
-Michael Backes and Pascal Berrang and Anne Hecksteden and Mathias Humbert and Andreas Keller and Tim Meyer$Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles$Security$1223-1240$USENIX$2016
+Bimal Viswanath and M. Ahmad Bashir and Mark Crovella and Saikat Guha and Krishna P. Gummadi and Balachander Krishnamurthy and Alan Mislove$Towards Detecting Anomalous User Behavior in Online Social Networks$USENIX Security$223-238$USENIX$2014
+Michael Backes and Pascal Berrang and Anne Hecksteden and Mathias Humbert and Andreas Keller and Tim Meyer$Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles$USENIX Security$1223-1240$USENIX$2016
 Andrew McGregor and Ilya Mironov and Toniann Pitassi and Omer Reingold and Kunal Talwar and Salil Vadhan$The Limits of Two-Party Differential Privacy$FOCS$81-90$IEEE$2010
 Jinyuan Jia and Binghui Wang and Le Zhang and Neil Zhenqiang Gong$AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields$WWW_old$1561-1569$ACM$2017
 Shirin Nilizadeh and Apu Kapadia and Yong-Yeol Ahn$Community-enhanced De-anonymization of Online Social Networks$CCS$537-548$ACM$2014
@@ -80,7 +80,7 @@ Enrico Mariconti and Jeremiah Onaolapo and Syed Sharique Ahmad and Nicolas Nikif
 Lisa Singh and Grace Hui Yang and Micah Sherr and Andrew Hian-Cheong and Kevin Tian and Janet Zhu and Sicong Zhang$Public Information Exposure Detection: Helping Users Understand Their Web Footprints$ASONAM$153-161$ACM$2015
 Lujo Bauer and Lorrie Faith Cranor and Saranga Komanduri and Michelle L. Mazurek and Michael K. Reiter and Manya Sleeper and Blase Ur$The Post Anachronism: The Temporal Dimension of Facebook Privacy$WPES$1-12$ACM$2013
 T Ryan Hoens and Marina Blanton and Nitesh V Chawla$A Private and Reliable Recommendation System for Social Networks$SocialCom$816-825$IEEE$2010
-Kurt Thomas and Damon McCoy and Chris Grier and Alek Kolcz and Vern Paxson$Trafficking Fraudulent Accounts: The Role of the Underground Market in Twitter Spam and Abuse$Security$195-210$USENIX$2013
+Kurt Thomas and Damon McCoy and Chris Grier and Alek Kolcz and Vern Paxson$Trafficking Fraudulent Accounts: The Role of the Underground Market in Twitter Spam and Abuse$USENIX Security$195-210$USENIX$2013
 Brian Thompson and Danfeng Yao$The Union-Split Algorithm and Cluster-Based Anonymization of Social Networks$ASIACCS$218-227$ACM$2009
 Leyla Bilge and Thorsten Strufe and Davide Balzarotti and Engin Kirda$All Your Contacts Are Belong to Us: Automated Identity Theft Attacks on Social Networks$WWW_old$551-560$ACM$2009
 Xiaojing Liao and A. Selcuk Uluagac and Raheem A. Beyah$S-MATCH: Verifiable Privacy-Preserving Profile Matching for Mobile Social Services$DSN$287-298$IEEE$2014
@@ -109,11 +109,11 @@ Meng Qu and Jian Tang and Jiawei Han$Curriculum Learning for Heterogeneous Star 
 Hongwei Wang and Fuzheng Zhang and Min Hou and Xing Xie and Minyi Guo and Qi Liu$SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction$WSDM$592-600$ACM$2018
 Ming Gao and Leihui Chen and Xiangnan He and Aoying Zhou$BiNE: Bipartite Network Embedding$SIGIR$715-724$ACM$2018
 Battista Biggio and Igino Corona and Davide Maiorca and Blaine Nelson and Nedim Srndic and Pavel Laskov and Giorgio Giacinto and Fabio Roli$Evasion Attacks against Machine Learning at Test Time$ECML/PKDD$387-402$Springer$2013
-Florian Tram\'{e}r and Fan Zhang and Ari Juels and Michael K. Reiter and Thomas Ristenpart$Stealing Machine Learning Models via Prediction APIs$Security$601-618$USENIX$2016
+Florian Tram\'{e}r and Fan Zhang and Ari Juels and Michael K. Reiter and Thomas Ristenpart$Stealing Machine Learning Models via Prediction APIs$USENIX Security$601-618$USENIX$2016
 Samuel Yeom and Irene Giacomelli and Matt Fredrikson and Somesh Jha$Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting$CSF$$IEEE$2018
 Nicolas Papernot and Patrick McDaniel and Arunesh Sinha and Michael Wellman$SoK: Towards the Science of Security and Privacy in Machine Learning$Euro S\&P$$IEEE$2018
 Shai Avidan and Moshe Butman$Blind Vision$ECCV$1-13$Springer$2006
-Yossi Adi and Carsten Baum and Moustapha Cisse and Benny Pinkas and Joseph Keshet$Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring$Security$$USENIX$2018
+Yossi Adi and Carsten Baum and Moustapha Cisse and Benny Pinkas and Joseph Keshet$Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring$USENIX Security$$USENIX$2018
 Jialong Zhang and Zhongshu Gu and Jiyong Jang and Hui Wu and Marc Ph. Stoecklin and Heqing Huang and Ian Molloy$Protecting Intellectual Property of Deep Neural Networks with Watermarking$ASIACCS$159-172$ACM$2018
 Aditi Raghunathan and Jacob Steinhardt and Percy Liang$Certified Defenses against Adversarial Examples$ICLR$$$2018
 Battista Biggio and Blaine Nelson and Pavel Laskov$Poisoning Attacks against Support Vector Machines$ICML$$JMLR$2012
@@ -122,17 +122,17 @@ Shike Mei and Xiaojin Zhu$Using Machine Teaching to Identify Optimal Training-Se
 Daniel Lowd and Christopher Meek$Adversarial Learning$KDD$641-647$ACM$2005
 Binghui Wang and Neil Zhenqiang Gong$Stealing Hyperparameters in Machine Learning$S\&P$$IEEE$2018
 Seong Joon Oh and Max Augustin and Bernt Schiele and Mario Fritz$Towards Reverse-Engineering Black-Box Neural Networks$ICLR$$$2018
-Olga Ohrimenko and Felix Schuster and Cedric Fournet and Aastha Mehta and Sebastian Nowozin and Kapil Vaswani and Manuel Costa$Oblivious Multi-Party Machine Learning on Trusted Processors$Security$619-636$USENIX$2016
-Sangho Lee and Ming-Wei Shih and Prasun Gera and Taesoo Kim and Hyesoon Kim and Marcus Peinado$Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing$Security$557-574$USENIX$2017
+Olga Ohrimenko and Felix Schuster and Cedric Fournet and Aastha Mehta and Sebastian Nowozin and Kapil Vaswani and Manuel Costa$Oblivious Multi-Party Machine Learning on Trusted Processors$USENIX Security$619-636$USENIX$2016
+Sangho Lee and Ming-Wei Shih and Prasun Gera and Taesoo Kim and Hyesoon Kim and Marcus Peinado$Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing$USENIX Security$557-574$USENIX$2017
 Manuel Barbosa and Bernardo Portela and Guillaume Scerri and Bogdan Warinschi$Foundations of Hardware-Based Attested Computation and Application to SGX$Euro S\&P$245-260$IEEE$2016
 Ben Fisch and Dhinakaran Vinayagamurthy and Dan Boneh and Sergey Gorbunov$Iron: Functional Encryption using Intel SGX$CCS$765-782$ACM$2017
 Rafael Pass and Elaine Shi and Florian Tram\'{e}r$Formal Abstractions for Attested Execution Secure Processors$EUROCRYPT$260-289$Springer$2017
-Victor Costan and Ilia Lebedev and Srinivas Devadas$Sanctum: Minimal Hardware Extensions for Strong Software Isolation$Security$857-874$USENIX$2016
+Victor Costan and Ilia Lebedev and Srinivas Devadas$Sanctum: Minimal Hardware Extensions for Strong Software Isolation$USENIX Security$857-874$USENIX$2016
 Ernie Brickell and Jiangtao Li$Enhanced Privacy ID from Bilinear Pairing for Hardware Authentication and Attestation$SocialCom$768-775$IEEE$2010
 JP Aumasson and Luis Merino$SGX Secure Enclaves in Practice: Security and Crypto Review$Black Hat$$$2016
-Raoul Strackx and Frank Piessens$Ariadne: A Minimal Approach to State Continuity$Security$875-892$USENIX$2016
-Sinisa Matetic and Mansoor Ahmed and Kari Kostiainen and Aritra Dhar and David Sommer and Arthur Gervais and Ari Juels and Srdjan Capkun$ROTE: Rollback Protection for Trusted Execution$Security$1289-1306$USENIX$2017
-Wenhao Wang and Guoxing Chen and Xiaorui Pan and Yinqian Zhang and XiaoFeng Wang$Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX$Security$2421-2434$ACM$2017
+Raoul Strackx and Frank Piessens$Ariadne: A Minimal Approach to State Continuity$USENIX Security$875-892$USENIX$2016
+Sinisa Matetic and Mansoor Ahmed and Kari Kostiainen and Aritra Dhar and David Sommer and Arthur Gervais and Ari Juels and Srdjan Capkun$ROTE: Rollback Protection for Trusted Execution$USENIX Security$1289-1306$USENIX$2017
+Wenhao Wang and Guoxing Chen and Xiaorui Pan and Yinqian Zhang and XiaoFeng Wang and Vincent Bindschaedler and Haixu Tang and Carl A. Gunter$Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX$CCS$2421-2434$ACM$2017
 Ferdinand Brasser and Urs Muller and Alexandra Dmitrienko and Kari Kostiainen and Srdjan Capkun and Ahmad-Reza Sadeghi$Software Grand Exposure: SGX Cache Attacks Are Practical$WOOT$$USENIX$2017
 Matt Fredrikson and Somesh Jha and Thomas Ristenpart$Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures$CCS$1322-1333$ACM$2015
 Ian Goodfellow and Jonathon Shlens and Christian Szegedy$Explaining and Harnessing Adversarial Examples$ICLR$$$2015
@@ -149,3 +149,7 @@ Michael Backes and Pascal Berrang and Matthias Bieg and Roland Eils and Carl Her
 Payman Mohassel and Yupeng Zhang$SecureML: A System for Scalable Privacy-Preserving Machine Learning$S\&P$19-38$IEEE$2017
 Seong Joon Oh and Mario Fritz and Bernt Schiele$Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective$ICCV$1482-1491$IEEE$2017
 Congzheng Song and Thomas Ristenpart and Vitaly Shmatikov$Machine Learning Models that Remember Too Much$CCS$587-601$ACM$2017
+Matthew Jagielski and Alina Oprea and Battista Biggio and Chang Liu and Cristina Nita-Rotaru and Bo Li$Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning$S\&P$$IEEE$2018
+Milad Nasr and Reza Shokri and Amir Houmansadr$Machine Learning with Membership Privacy using Adversarial Regularization$CCS$$ACM$2018
+Xiaoyu Cao and Neil Zhenqiang Gong$Mitigating Evasion Attacks to Deep Neural Networks via Region-based Classification$ACSAC$278-287$ACM$2017
+William L. Hamilton and Zhitao Ying and Jure Leskovec$Inductive Representation Learning on Large Graphs$NIPS$1025-1035$NIPS$2017
