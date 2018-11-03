@@ -194,6 +194,26 @@ def build_bib(mode='normal'):
         f.write('\n')
         f.write('\n')    
         f.close()
+    website = pd.read_csv('website.txt', sep='$')
+    for i in range(website.shape[0]):
+        
+        print i
+        ref_key = website.loc[i, 'key']
+        
+        f = open(mode+'_generated.bib', 'a')
+        
+        f.write("@misc{"+ref_key+',')
+        f.write('\n')
+        
+#        f.write("title = {"+website.loc[i, 'title']+"},")
+#        f.write('\n')
+        f.write("howpublished = {\url{"+website.loc[i, 'url']+"}},")
+        f.write('\n')
+#        f.write("note = {}")
+#        f.write('\n')
+        f.write("}")
+        f.close()
+
 
 mode = sys.argv[1]
 

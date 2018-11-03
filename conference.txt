@@ -153,3 +153,4 @@ Matthew Jagielski and Alina Oprea and Battista Biggio and Chang Liu and Cristina
 Milad Nasr and Reza Shokri and Amir Houmansadr$Machine Learning with Membership Privacy using Adversarial Regularization$CCS$$ACM$2018
 Xiaoyu Cao and Neil Zhenqiang Gong$Mitigating Evasion Attacks to Deep Neural Networks via Region-based Classification$ACSAC$278-287$ACM$2017
 William L. Hamilton and Zhitao Ying and Jure Leskovec$Inductive Representation Learning on Large Graphs$NIPS$1025-1035$NIPS$2017
+Yuheng Hu and Lydia Manikonda and Subbarao Kambhampati$What We Instagram: A First Analysis of Instagram Photo Content and User Types$ICWSM$595-598$AAAI$2014

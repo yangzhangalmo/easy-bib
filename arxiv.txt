@@ -30,3 +30,4 @@ Bita Darvish Rouhani and Huili Chen and Farinaz Koushanfar$DeepSigns: A Generic 
 Bita Darvish Rouhani and M. Sadegh Riazi and Farinaz Koushanfar$DeepSecure: Scalable Provably-Secure Deep Learning$CoRR abs/1705.08963$2017
 Octavian Suciu and Radu M\u{a}rginean and Yi\u{g}itcan Kaya and Hal Daum\'e III and Tudor Dumitra\c{s}$When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks$CoRR abs/1803.06975$2018
 Ghazaleh Beigi and Huan Liu$Privacy in Social Media: Identification, Mitigation and Applications$CoRR abs/1808.02191$2018
+Lydia Manikonda and Yuheng Hu and Subbarao Kambhampati$Analyzing User Activities, Demographics, Social Network Structure and User-Generated Content on Instagram$CoRR abs/1410.8099$2014
