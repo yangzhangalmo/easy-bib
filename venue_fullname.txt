@@ -72,3 +72,4 @@ AISTATS$International Conference on Artificial Intelligence and Statistics
 AAMAS$International Conference on Autonomous Agents and Multi-agent Systems
 PETS$Symposium on Privacy Enhancing Technologies Symposium
 ACSAC$Annual Computer Security Applications Conference
+ISSRE$International Symposium on Software Reliability Engineering

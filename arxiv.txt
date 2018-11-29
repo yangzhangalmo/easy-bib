@@ -31,3 +31,4 @@ Bita Darvish Rouhani and M. Sadegh Riazi and Farinaz Koushanfar$DeepSecure: Scal
 Octavian Suciu and Radu M\u{a}rginean and Yi\u{g}itcan Kaya and Hal Daum\'e III and Tudor Dumitra\c{s}$When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks$CoRR abs/1803.06975$2018
 Ghazaleh Beigi and Huan Liu$Privacy in Social Media: Identification, Mitigation and Applications$CoRR abs/1808.02191$2018
 Lydia Manikonda and Yuheng Hu and Subbarao Kambhampati$Analyzing User Activities, Demographics, Social Network Structure and User-Generated Content on Instagram$CoRR abs/1410.8099$2014
+Yang Zhang and Mathias Humbert and Bartlomiej Surma and Praveen Manoharan and Jilles Vreeken and Michael Backes$CTRL+Z: Recovering Anonymized Social Graphs$CoRR abs/1711.05441$2017

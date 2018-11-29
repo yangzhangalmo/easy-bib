@@ -1,4 +1,6 @@
 author$title$venue$pages$publisher$year
+Ahmed Salem and Yang Zhang and Mathias Humbert and Pascal Berrang and Mario Fritz and Michael Backes$ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models$NDSS$$Internet Society$2019
+Inken Hagestedt and Yang Zhang and Mathias Humbert and Pascal Berrang and Haixu Tang and XiaoFeng Wang and Michael Backes$MBeacon: Privacy-Preserving Beacons for DNA Methylation Data$NDSS$$Internet Society$2019
 Michael Backes and Mathias Humbert and Jun Pang and Yang Zhang$walk2friends: Inferring Social Links from Mobility Profiles$CCS$1943-1957$ACM$2017
 Yang Zhang and Mathias Humbert and Tahleen Rahman and Cheng-Te Li and Jun Pang and Michael Backes$Tagvisor: A Privacy Advisor for Sharing Hashtags$WWW$287-296$ACM$2018
 Pascal Berrang and Mathias Humbert and Yang Zhang and Irina Lehmann and Roland Eils and Michael Backes$Dissecting Privacy Risks in Biomedical Data$Euro S\&P$$IEEE$2018
@@ -154,3 +156,4 @@ Milad Nasr and Reza Shokri and Amir Houmansadr$Machine Learning with Membership 
 Xiaoyu Cao and Neil Zhenqiang Gong$Mitigating Evasion Attacks to Deep Neural Networks via Region-based Classification$ACSAC$278-287$ACM$2017
 William L. Hamilton and Zhitao Ying and Jure Leskovec$Inductive Representation Learning on Large Graphs$NIPS$1025-1035$NIPS$2017
 Yuheng Hu and Lydia Manikonda and Subbarao Kambhampati$What We Instagram: A First Analysis of Instagram Photo Content and User Types$ICWSM$595-598$AAAI$2014
+Minyue Ni and Yang Zhang and Weili Han and Jun Pang$An Empirical Study on User Access Control in Online Social Networks$SACMAT$12-23$ACM$2016
