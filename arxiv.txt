@@ -32,3 +32,9 @@ Octavian Suciu and Radu M\u{a}rginean and Yi\u{g}itcan Kaya and Hal Daum\'e III 
 Ghazaleh Beigi and Huan Liu$Privacy in Social Media: Identification, Mitigation and Applications$CoRR abs/1808.02191$2018
 Lydia Manikonda and Yuheng Hu and Subbarao Kambhampati$Analyzing User Activities, Demographics, Social Network Structure and User-Generated Content on Instagram$CoRR abs/1410.8099$2014
 Yang Zhang and Mathias Humbert and Bartlomiej Surma and Praveen Manoharan and Jilles Vreeken and Michael Backes$CTRL+Z: Recovering Anonymized Social Graphs$CoRR abs/1711.05441$2017
+Lucjan Hanzlik and Yang Zhang and Kathrin Grosse and Ahmed Salem and Max Augustin and Michael Backes and Mario Fritz$MLCapsule: Guarded Offline Deployment of Machine Learning as a Service$CoRR abs/1808.00590$2018
+Qingrong Chen and Chong Xiang and Minhui Xue and Bo Li and Nikita Borisov and Dali Kaarfar and Haojin Zhu$Differentially Private Data Generative Models$CoRR abs/1812.02274$2018
+Mehdi Mirza and Simon Osindero$Conditional Generative Adversarial Nets$CoRR abs/1411.1784$2014
+Congzheng Song and Vitaly Shmatikov$The Natural Auditor: How To Tell If Someone Used Your Words To Train Their Model$CoRR abs/1811.00513$2018
+Apostolos Pyrgelis and Carmela Troncoso and Emiliano De Cristofaro$Under the Hood of Membership Inference Attacks on Aggregate Location Time-Series$CoRR abs/1902.07456$2019
+Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang$Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning$CoRR abs/1904.01067$2019

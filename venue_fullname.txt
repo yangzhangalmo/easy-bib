@@ -73,3 +73,8 @@ AAMAS$International Conference on Autonomous Agents and Multi-agent Systems
 PETS$Symposium on Privacy Enhancing Technologies Symposium
 ACSAC$Annual Computer Security Applications Conference
 ISSRE$International Symposium on Software Reliability Engineering
+CGO$International Symposium on Code Generation and Optimization
+CVPR$IEEE Conference on Computer Vision and Pattern Recognition
+NRLQ$Naval Research Logistics Quarterly
+FAT*$Conference on Fairness, Accountability, and Transparency
+ITCS$Innovations in Theoretical Computer Science Conference

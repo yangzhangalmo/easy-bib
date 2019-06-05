@@ -157,3 +157,29 @@ Xiaoyu Cao and Neil Zhenqiang Gong$Mitigating Evasion Attacks to Deep Neural Net
 William L. Hamilton and Zhitao Ying and Jure Leskovec$Inductive Representation Learning on Large Graphs$NIPS$1025-1035$NIPS$2017
 Yuheng Hu and Lydia Manikonda and Subbarao Kambhampati$What We Instagram: A First Analysis of Instagram Photo Content and User Types$ICWSM$595-598$AAAI$2014
 Minyue Ni and Yang Zhang and Weili Han and Jun Pang$An Empirical Study on User Access Control in Online Social Networks$SACMAT$12-23$ACM$2016
+Jo Van Bulck and Marina Minkin and Ofir Weisse and Daniel Genkin and Baris Kasikci and Frank Piessens and Mark Silberstein and Thomas F. Wenisch and Yuval Yarom and Raoul Strackx$Foreshadow: Extracting the Keys to the Intel {SGX} Kingdom with Transient Out-of-Order Execution$USENIX Security$991-1008$USENIX$2018
+Erick Bauman and Huibo Wang and Mingwei Zhang and Zhiqiang Lin$SGXElide: Enabling Enclave Code Secrecy via Self-modification$CGO$75-86$ACM$2018
+Ran Gilad-Bachrach and Nathan Dowlin and Kim Laine and Kristin Lauter and Michael Naehrig and John Wernsing$CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy$ICML$201-210$JMLR$2012
+Briland Hitaj and Giuseppe Ateniese and Fernando Perez-Cruz$Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning$CCS$603-618$ACM$2017
+Luca Melis and Congzheng Song and Emiliano De Cristofaro and Vitaly Shmatikov$Exploiting Unintended Feature Leakage in Collaborative Learning$S\&P$$IEEE$2019
+Karan Ganju and Qi Wang and Wei Yang and Carl A. Gunter and Nikita Borisov$Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations$CCS$619-633$ACM$2018
+Justin Cheng and Lada Adamic and P. Alex Dow and Jon Kleinberg and Jure Leskovec$Can Cascades be Predicted?$WWW_old$925-936$ACM$2014
+Martin Abadi and Andy Chu and Ian Goodfellow and Brendan McMahan and Ilya Mironov and Kunal Talwar and Li Zhang$Deep Learning with Differential Privacy$CCS$308-318$ACM$2016
+Reza Shokri and Vitaly Shmatikov$Privacy-Preserving Deep Learning$CCS$1310-1321$ACM$2015
+Kamalika  Chaudhuri and Claire Monteleoni$Privacy-preserving Logistic Regression$NIPS$289-296$NIPS$2009
+Ian Goodfellow and Jean Pouget-Abadie and Mehdi Mirza and Bing Xu and David Warde-Farley and Sherjil Ozair and Aaron Courville and Yoshua Bengio$Generative Adversarial Nets$NIPS$$NIPS$2014
+Andrew Brock and Jeff Donahue and Karen Simonyan$Large Scale GAN Training for High Fidelity Natural Image Synthesis$ICLR$$$2-19
+Milad Nasr and Reza Shokri and Amir Houmansadr$Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning$S\&P$$IEEE$2019
+Tribhuvanesh Orekondy and Bernt Schiele and Mario Fritz$Knockoff Nets: Stealing Functionality of Black-Box Models$CVPR$$IEEE$2019
+Dingdong Yang and Seunghoon Hong and Yunseok Jang and Tianchen Zhao and Honglak Lee$Diversity-Sensitive Conditional Generative Adversarial Networks$ICLR$$$2019
+Ana-Andreea Stoica and Christopher Riederer and Augustin Chaintreau$Algorithmic Glass Ceiling in Social Networks: The effects of social recommendations on network diversity$WWW$923-932$ACM$2018
+Michael Feldman and Sorelle A. Friedler and John Moeller and Carlos Scheidegger and Suresh Venkatasubramanian$Certifying and Removing Disparate Impact$KDD$259-268$ACM$2015
+Muhammad Bilal Zafar and Isabel Valera and Manuel Gomez Rodriguez and Krishna P. Gummadi$Fairness Beyond Disparate Treatment \& Disparate Impact: Learning Classification without Disparate Mistreatment$WWW_old$1171-1180$ACM$2017
+Joy Buolamwini and Timnit Gebru$Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification$FAT*$77-91$$2018
+Moritz Hardt and Eric Price and Nati Srebro$Equality of Opportunity in Supervised Learning$NIPS$3315-3323$NIPS$2016
+Faisal Kamiran and Toon Calders and Mykola Pechenizkiy$Discrimination Aware Decision Tree Learning$ICDM$869-874$IEEE$2010
+Toshihiro Kamishima and Shotaro Akaho and Hideki Asoh and Jun Sakuma$Fairness-Aware Classifier with Prejudice Remover Regularizer$ECML/PKDD$35-50$Springer$2012
+Meike Zehlike and Francesco Bonchi and Carlos Castillo and Sara Hajian and Mohamed Megahed and Ricardo Baeza-Yates$FA*IR: A Fair Top-k Ranking Algorithm$CIKM$1569-1578$ACM$2017
+Jian Tang and Meng Qu and Qiaozhu Mei$PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks$KDD$1165-1174$ACM$2015
+Michael Kearns and Seth Neel and Aaron Roth and Zhiwei Steven Wu$An Empirical Study of Rich Subgroup Fairness for Machine Learning$FAT*$100-109$ACM$2019
+Cynthia Dwork and Moritz Hardt and Toniann Pitassi and Omer Reingold and Richard Zemel$Fairness Through Awareness$ITCS$214-226$ACM$2012
