@@ -183,3 +183,12 @@ Meike Zehlike and Francesco Bonchi and Carlos Castillo and Sara Hajian and Moham
 Jian Tang and Meng Qu and Qiaozhu Mei$PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks$KDD$1165-1174$ACM$2015
 Michael Kearns and Seth Neel and Aaron Roth and Zhiwei Steven Wu$An Empirical Study of Rich Subgroup Fairness for Machine Learning$FAT*$100-109$ACM$2019
 Cynthia Dwork and Moritz Hardt and Toniann Pitassi and Omer Reingold and Richard Zemel$Fairness Through Awareness$ITCS$214-226$ACM$2012
+Xiao Zhang and David Evans$Cost-Sensitive Robustness against Adversarial Examples$ICLR$$$2019
+Anish Athalye and Nicholas Carlini and David A. Wagner$Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples$ICML$274-283$JMLR$2018
+Wenbo Guo and Dongliang Mu and Jun Xu and Purui Su and Gang Wang abd Xinyu Xing$LEMNA: Explaining Deep Learning based Security Applications$CCS$364-379$ACM$2018
+Bolun Wang and Yuanshun Yao and Bimal Viswanath and Haitao Zheng and Ben Y. Zhao$With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning$USENIX Security$1281-1297$USENIX$2018
+Yuanshun Yao and Bimal Viswanath and Jenna Cryan and Haitao Zheng and Ben Y. Zhao$Automated Crowdturfing Attacks and Defenses in Online Review Systems$CCS$1143-1158$ACM$2017
+Congzheng Song and Vitaly Shmatikov$Auditing Data Provenance in Text-Generation Models$KDD$196-206$ACM$2019
+Nicholas Carlini and Chang Liu and {\'U}lfar Erlingsson and Jernej Kos and Dawn Song$The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks$USENIX Security$267-284$USENIX$2019
+Qixue Xiao and Yufei Chen and Chao Shen and Yu Chen and Kang Li$Seeing is Not Believing: Camouflage Attacks on Image Scaling Algorithms$USENIX Security$443-460$USENIX$2019
+Yingqi Liu and Shiqing Ma and Yousra Aafer and Wen-Chuan Lee and Juan Zhai and Weihang Wang and Xiangyu Zhang$Trojaning Attack on Neural Networks$NDSS$$Internet Society$2019

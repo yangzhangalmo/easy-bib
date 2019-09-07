@@ -3,3 +3,4 @@ MNIST$http://yann.lecun.com/exdb/mnist/
 GTSDB$http://benchmark.ini.rub.de/
 CIFAR$https://www.cs.toronto.edu/~kriz/cifar.html
 GooglePrice$https://cloud.google.com/vision/pricing
+PyTorch$https://pytorch.org/

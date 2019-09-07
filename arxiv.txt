@@ -38,3 +38,5 @@ Mehdi Mirza and Simon Osindero$Conditional Generative Adversarial Nets$CoRR abs/
 Congzheng Song and Vitaly Shmatikov$The Natural Auditor: How To Tell If Someone Used Your Words To Train Their Model$CoRR abs/1811.00513$2018
 Apostolos Pyrgelis and Carmela Troncoso and Emiliano De Cristofaro$Under the Hood of Membership Inference Attacks on Aggregate Location Time-Series$CoRR abs/1902.07456$2019
 Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang$Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning$CoRR abs/1904.01067$2019
+Mohammad Yaghini and Bogdan Kulynych and Carmela Troncoso$Disparate Vulnerability: on the Unfairness of Privacy Attacks Against Machine Learning$CoRR abs/1906.00389$2019
+
