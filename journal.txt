@@ -20,3 +20,6 @@ Zekeriya Erkin and Martin Franz and Jorge Guajardo and Stefan Katzenbeisser and 
 Adri{\`a} Gasc{\'o}n and Phillipp Schoppmann and Borja Balle and Mariana Raykova and Jack Doerner and Samee Zahur and David Evans$Privacy-Preserving Distributed Linear Regression on High-Dimensional Data$PETS$$$$$2017
 Harold W Kuhn$The Hungarian Method for the Assignment Problem$NRLQ$2$1-2$83-97$Wiley Online Library$1955
 Fariba Karimi and Mathieu G{\'e}nois and Claudia Wagner and Philipp Singer and Markus Strohmaier$Homophily Influences Ranking of Minorities in Social Networks$scireport$8$$$Nature Publishing Group$2018
+Kamalika Chaudhuri and Claire Monteleoni and Anand D Sarwate$Differentially Private Empirical Risk Minimization$JMLR$12$$1069-1109$JMLR$2011
+Jamie Hayes and Luca Melis and George Danezis and Emiliano De Cristofaro$LOGAN: Evaluating Privacy Leakage of Generative Models Using Generative Adversarial Networks$PETS$$$$$2019
+Nitish Srivastava and Geoffrey Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov$Dropout: A Simple Way to Prevent Neural Networks from Overfitting$JMLR$15$$1929-1958$JMLR$2014

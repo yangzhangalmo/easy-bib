@@ -5,15 +5,13 @@ Eduardo Graells-Garrido and Mounia Lalmas and Daniele Quercia$Data Portraits: Co
 Adam Badawy and Emilio Ferrara and Kristina Lerman$Analyzing the Digital Traces of Political Manipulation: The 2016 Russian Interference Twitter Campaign$CoRR abs/1802.04291$2018
 Rex Ying and Jiaxuan You and Christopher Morris and Xiang Ren and William L. Hamilton and Jure Leskovec$Hierarchical Graph Representation Learning with Differentiable Pooling$CoRR abs/1806.08804$2018
 Rock Stevens and Octavian Suciu and Andrew Ruef and Sanghyun Hong and Michael Hicks and Tudor Dumitra\c{s}$Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning$CoRR abs/1701.04739$2017
-Jamie Hayes and Luca Melis and George Danezis and Emiliano De Cristofaro$LOGAN: Evaluating Privacy Leakage of Generative Models Using Generative Adversarial Networks$CoRR abs/1705.07663$2017
 Ahmed Salem and Yang Zhang and Mathias Humbert and Mario Fritz and Michael Backes$ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models$CoRR abs/1806.01246$2018
 Mika Juuti and Sebastian Szyller and Alexey Dmitrenko and Samuel Marchal and N. Asokan$PRADA: Protecting against DNN Model Stealing Attacks$CoRR abs/1805.02628$2018
 Christian Szegedy and Wojciech Zaremba and Ilya Sutskever and Joan Bruna and Dumitru Erhan and Ian Goodfellow and Rob Fergus$Intriguing Properties of Neural Networks$CoRR abs/1312.6199$2013
 Nicholas Carlini and David Wagner$Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods$CoRR abs/1705.07263$2017
-Aleksander Madry and Aleksandar Makelov and Ludwig Schmidt and Dimitris Tsipras and Adrian Vladu$Towards Deep Learning Models Resistant to Adversarial Attacks$CoRR abs/1706.06083$2017
 Nicolas Papernot and Patrick McDaniel and Ian Goodfellow$Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples$CoRR abs/1605.07277$2016
 Erwan Le Merrer and Patrick Perez and Gilles Tr\'{e}dan$Adversarial Frontier Stitching for Remote Neural Network Watermarking$CoRR abs/1711.01894$2017
-Florian Tramer and Dan Boneh$Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware$CoRR abs/1806.03287$2018
+Florian Tram\'{e}r and Dan Boneh$Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware$CoRR abs/1806.03287$2018
 Giuseppe Ateniese and Giovanni Felici and Luigi V. Mancini and Angelo Spognardi and Antonio Villani and Domenico Vitali$Hacking Smart Machines with Smarter Ones: How to Extract Meaningful Data from Machine Learning Classifiers$CoRR abs/1306.4447$2013
 Tribhuvanesh Orekondy and Seong Joon Oh and Bernt Schiele and Mario Fritz$Understanding and Controlling User Linkability in Decentralized Learning$CoRR abs/1805.05838$2018
 Luca Melis and Congzheng Song and Emiliano De Cristofaro and Vitaly Shmatikov$Inference Attacks Against Collaborative Learning$CoRR abs/1805.04049$2018
@@ -39,4 +37,7 @@ Congzheng Song and Vitaly Shmatikov$The Natural Auditor: How To Tell If Someone 
 Apostolos Pyrgelis and Carmela Troncoso and Emiliano De Cristofaro$Under the Hood of Membership Inference Attacks on Aggregate Location Time-Series$CoRR abs/1902.07456$2019
 Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang$Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning$CoRR abs/1904.01067$2019
 Mohammad Yaghini and Bogdan Kulynych and Carmela Troncoso$Disparate Vulnerability: on the Unfairness of Privacy Attacks Against Machine Learning$CoRR abs/1906.00389$2019
-
+Jinyuan Jia and Neil Zhenqiang Gong$Defending against Machine Learning based Inference Attacks via Adversarial Examples: Opportunities and Challenges$CoRR abs/1909.08526$2019
+Alexey Kurakin and Ian Goodfellow and Samy Bengio$Adversarial Examples in the Physical World$CoRR abs/1607.02533$2016
+Yanpei Liu and Xinyun Chen and Chang Liu and Dawn Song$Delving into Transferable Adversarial Examples and Black-box Attacks$CoRR abs/1611.02770$2016
+Xiaozhu Meng and Barton P Miller and Somesh Jha$Adversarial Binaries for Authorship Identification$CoRR abs/1809.08316$2018

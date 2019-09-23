@@ -192,3 +192,29 @@ Congzheng Song and Vitaly Shmatikov$Auditing Data Provenance in Text-Generation 
 Nicholas Carlini and Chang Liu and {\'U}lfar Erlingsson and Jernej Kos and Dawn Song$The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks$USENIX Security$267-284$USENIX$2019
 Qixue Xiao and Yufei Chen and Chao Shen and Yu Chen and Kang Li$Seeing is Not Believing: Camouflage Attacks on Image Scaling Algorithms$USENIX Security$443-460$USENIX$2019
 Yingqi Liu and Shiqing Ma and Yousra Aafer and Wen-Chuan Lee and Juan Zhai and Weihang Wang and Xiangyu Zhang$Trojaning Attack on Neural Networks$NDSS$$Internet Society$2019
+Raef Bassily and Adam Smith and Abhradeep Thakurta$Differentially Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds$FOCS$464-473$IEEE$2014
+Xiang Cai and Xin Cheng Zhang and Brijesh Joshi and Rob Johnson$Touching from a Distance: Website Fingerprinting Attacks and Defenses$CCS$605-616$ACM$2012
+Aylin Caliskan and Fabian Yamaguchi and Edwin Dauber and Richard Harang and Konrad Rieck and Rachel Greenstadt and Arvind Narayanan$When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries$NDSS$$Internet Society$2018
+Abdelberi Chaabane and Gergely Acs and Mohamed Ali Kaafar$You Are What You Like! Information Leakage Through Users' Interests$NDSS$$Internet Society$2012
+Cynthia Dwork and Frank McSherry and Kobbi Nissim and Adam Smith$Calibrating Noise to Sensitivity in Private Data Analysis$TCC$265-284$Springer$2006
+Neil Zhenqiang Gong and Bin Liu$You are Who You Know and How You Behave: Attribute Inference Attacks via Users' Social Friends and Behaviors$USENIX Security$979-995$USENIX$2016
+Dominik Herrmann and Rolf Wendolsky and Hannes Federrath$Website Fingerprinting: Attacking Popular Privacy Enhancing Technologies with the Multinomial Naive-Bayes Classifier$CCSW$31-41$ACM$2009
+Roger Iyengar and Joseph P. Near and Dawn Xiaodong Song and Om Dipakbhai Thakkar and Abhradeep Thakurta and Lun Wang$Towards Practical Differentially Private Convex Optimization$S\&P$$IEEE$2019
+Bargav Jayaraman and David Evans$Evaluating Differentially Private Machine Learning in Practice$USENIX Security$1895-1912$USENIX$2014
+Marc Juarez and Sadia Afroz and Gunes Acar and Claudia Diaz and Rachel Greenstadt$A Critical Evaluation of Website Fingerprinting Attacks$CCS$263-274$ACM$2014
+Daniel Kifer and Adam Smith and Abhradeep Thakurta$Private Convex Optimization for Empirical Risk Minimization with Applications to High-dimensional Regression$COLT$1-25$JMLR$2012
+Aleksander Madry and Aleksandar Makelov and Ludwig Schmidt and Dimitris Tsipras and Adrian Vladu$Towards Deep Learning Models Resistant to Adversarial Attacks$ICLR$$$2018
+Dongyu Meng and Hao Chen$MagNet: A Two-Pronged Defense against Adversarial Examples$CCS$135-147$ACM$2017
+Seyed-Mohsen Moosavi-Dezfooli and Alhussein Fawzi and Omar Fawzi and Pascal Frossard$Universal Adversarial Perturbations$CVPR$1765-1773$IEEE$2017
+Seyed-Mohsen Moosavi-Dezfooli and Alhussein Fawzi and Pascal Frossard$Deepfool: A Simple and Accurate Method to Fool Deep Neural Networks$CVPR$2574-2582$IEEE$2016
+Arvind Narayanan and Hristo S. Paskov and Neil Zhenqiang Gong and John Bethencourt and Emil Stefanov and Eui Chul Richard Shin and Dawn Song$On the Feasibility of Internet-Scale Author Identification$S\&P$300-314$IEEE$2012
+Andriy Panchenko and Lukas Niessen and Andreas Zinnen and Thomas Engel$Website Fingerprinting in Onion Routing Based Anonymization Networks$WPES$103-114$ACM$2011
+Nicolas Papernot and Patrick D. McDaniel and Xi Wu and Somesh Jha and Ananthram Swami$Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks$S\&P$582-597$IEEE$2016
+Erwin Quiring and Alwin Maier and Konrad Rieck$Misleading Authorship Attribution of Source Code using Adversarial Learning$USENIX Security$479-496$USENIX$2019
+Liwei Song and Reza Shokri and Prateek Mittal$Privacy Risks of Securing Machine Learning Models against Adversarial Examples$CCS$$ACM$2019
+Shuang Song and Kamalika Chaudhuri and Anand D. Sarwate$Stochastic Gradient Descent with Differentially Private Updates$GlobalSIP$245-248$IEEE$2013
+Di Wang and Minwei Ye and Jinhui Xu$Differentially Private Empirical Risk Minimization Revisited: Faster and More General$NIPS$2722-2731$NIPS$2017
+Tao Wang and Xiang Cai and Rishab Nithyanand and Rob Johnson and Ian Goldberg$Effective Attacks and Provable Defenses for Website Fingerprinting$USENIX Security$143-157$USENIX$2014
+Lei Yu and Ling Liu and Calton Pu and Mehmet Emre Gursoy and Stacey Truex$Differentially Private Model Publishing for Deep Learning$S\&P$$IEEE$2019
+Xiaokuan Zhang and Jihun Hamm and Michael K. Reiter and Yinqian Zhang$Statistical Privacy for Streaming Traffic$NDSS$$Internet Society$2019
+Yinqian Zhang and Ari Juels and Michael K. Reiter and Thomas Ristenpart$Cross-VM Side Channels and Their Use to Extract Private Keys$CCS$305-316$ACM$2012

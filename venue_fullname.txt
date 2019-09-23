@@ -78,3 +78,8 @@ CVPR$IEEE Conference on Computer Vision and Pattern Recognition
 NRLQ$Naval Research Logistics Quarterly
 FAT*$Conference on Fairness, Accountability, and Transparency
 ITCS$Innovations in Theoretical Computer Science Conference
+JMLR$Journal of Machine Learning Research
+TCC$Theory of Cryptography Conference
+CCSW$ACM Cloud Computing Security Workshop
+COLT$Annual Conference on Learning Theory
+GlobalSIP$IEEE Global Conference on Signal and Information Processing
