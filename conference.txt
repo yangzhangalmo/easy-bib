@@ -218,3 +218,10 @@ Tao Wang and Xiang Cai and Rishab Nithyanand and Rob Johnson and Ian Goldberg$Ef
 Lei Yu and Ling Liu and Calton Pu and Mehmet Emre Gursoy and Stacey Truex$Differentially Private Model Publishing for Deep Learning$S\&P$$IEEE$2019
 Xiaokuan Zhang and Jihun Hamm and Michael K. Reiter and Yinqian Zhang$Statistical Privacy for Streaming Traffic$NDSS$$Internet Society$2019
 Yinqian Zhang and Ari Juels and Michael K. Reiter and Thomas Ristenpart$Cross-VM Side Channels and Their Use to Extract Private Keys$CCS$305-316$ACM$2012
+Yang Zhang$Language in Our Time: An Empirical Analysis of Hashtags$WWW$2378-2389$ACM$2019
+Tahleen Rahman and Bartlomiej Surma and Michael Backes and Yang Zhang$Fairwalk: Towards Fair Graph Embedding$IJCAI$3289-3295$IJCAI$2019
+Jinyuan Jia and Ahmed Salem and Michael Backes and Yang Zhang and Neil Zhenqiang Gong$MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples$CCS$259-274$ACM$2019
+Yang Zhang and Mathias Humbert and Bartlomiej Surma and Praveen Manoharan and Jilles Vreeken and Michael Backes$Towards Plausible Graph Anonymization$NDSS$$Internet Society$2020
+Zheng Li and Chengyu Hu and Yang Zhang and Shanqing Guo$How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN$ACSAC$$ACM$2019
+Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang$Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning$USENIX Security$$USENIX$2020
+Fanghua Zhao and Linan Gao and Yang Zhang and Zeyu Wang and Bo Wang and Shanqing Guo$You Are Where You App: An Assessment on Location Privacy of Social Applications$ISSRE$236-247$IEEE$2019
