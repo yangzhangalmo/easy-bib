@@ -83,3 +83,16 @@ TCC$Theory of Cryptography Conference
 CCSW$ACM Cloud Computing Security Workshop
 COLT$Annual Conference on Learning Theory
 GlobalSIP$IEEE Global Conference on Signal and Information Processing
+CRYPTO$Annual International Cryptology Conference
+TOCT$ACM Transactions on Computation Theory
+MASU$Mathematical notes of the Academy of Sciences of the USSR
+STOC$Annual ACM Symposium on Theory of Computing
+SICOMP$SIAM Journal on Computing
+FC$International Conference on Financial Cryptography and Data Security
+TIFS$IEEE Transactions on Information Forensics and Security
+BMCMG$BMC medical genomics
+TDSC$IEEE Transactions on Dependable and Secure Computing
+LATINCRYPT$International Conference on Cryptology and Information Security in Latin America
+DCC$Designs, Codes and Cryptography
+TOPS$ACM Transactions on Privacy and Security
+FOCS$IEEE Symposium on Foundations of Computer Science

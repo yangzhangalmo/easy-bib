@@ -41,3 +41,9 @@ Jinyuan Jia and Neil Zhenqiang Gong$Defending against Machine Learning based Inf
 Alexey Kurakin and Ian Goodfellow and Samy Bengio$Adversarial Examples in the Physical World$CoRR abs/1607.02533$2016
 Yanpei Liu and Xinyun Chen and Chang Liu and Dawn Song$Delving into Transferable Adversarial Examples and Black-box Attacks$CoRR abs/1611.02770$2016
 Xiaozhu Meng and Barton P Miller and Somesh Jha$Adversarial Binaries for Authorship Identification$CoRR abs/1809.08316$2018
+Foteini Baldimtsi and Dimitrios Papadopoulos and Stavros Papadopoulos and Alessandra Scafuro and Nikos Triandopoulos$Secure Computation in Online Social Networks$Cryptology ePrint Archive, Report 2016/948$2016
+Jung Hee Cheon and Kyoohyung Han and Duhyeong Kim$Faster Bootstrapping of FHE over the Integers$Cryptology ePrint Archive, Report 2017/079$2017
+Hao Chen and Ilaria Chillotti and Yongsoo Song$Improved Bootstrapping for Approximate Homomorphic Encryption$Cryptology ePrint Archive, Report 2018/1043$2018
+Myungsun Kim and Hyung Tae Lee and San Ling and Shu Qin Ren and Benjamin Hong Meng Tan and Huaxiong Wang$Better Security for Queries on Encrypted Databases$Cryptology ePrint Archive, Report 2016/470$2016
+Junfeng Fan and Frederik Vercauteren$Somewhat Practical Fully Homomorphic Encryption$Cryptology ePrint Archive, Report 2012/144$2012
+Chun Guo and Jonathan Katz and Xiao Wang and Yu Yu$Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers$Cryptology ePrint Archive, Report 2019/074$2019

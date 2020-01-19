@@ -23,3 +23,12 @@ Fariba Karimi and Mathieu G{\'e}nois and Claudia Wagner and Philipp Singer and M
 Kamalika Chaudhuri and Claire Monteleoni and Anand D Sarwate$Differentially Private Empirical Risk Minimization$JMLR$12$$1069-1109$JMLR$2011
 Jamie Hayes and Luca Melis and George Danezis and Emiliano De Cristofaro$LOGAN: Evaluating Privacy Leakage of Generative Models Using Generative Adversarial Networks$PETS$$$$$2019
 Nitish Srivastava and Geoffrey Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov$Dropout: A Simple Way to Prevent Neural Networks from Overfitting$JMLR$15$$1929-1958$JMLR$2014
+Zvika Brakerski and Craig Gentry and Vinod Vaikuntanathan$(Leveled) Fully Homomorphic Encryption without Bootstrapping$TOCT$6$3$13$ACM$2014
+Razborov, A. A.$Lower Bounds on the Size of Bounded Depth Circuits over a Complete Basis with Logical Addition$MASU$41$4$333-338$Springer$1987
+Zvika Brakerski and Vinod Vaikuntanathan$Efficient Fully Homomorphic Encryption from (Standard) LWE$SICOMP$43$2$831-871$SIAM$2014
+Jung Hee Cheon and Miran Kim and Myungsun Kim$Optimized Search-and-Compute Circuits and Their Application to Query Evaluation on Encrypted Data$TIFS$11$1$188-199$IEEE$2016
+Haixu Tang and Xiaoqian Jiang and Xiaofeng Wang and Shuang Wang and Heidi Sofia and Dov Fox and Kristin Lauter and Bradley Malin and Amalio Telenti and Li Xiong and others$Protecting genomic data analytics in the cloud: state of the art and opportunities$BMCMG$9$1$15$BioMed Central$2016
+Myungsun Kim and Hyung Tae Lee and San Ling and Benjamin Hong Meng Tan and Huaxiong Wang$Private Compound Wildcard Queries Using Fully Homomorphic Encryption$TDSC$$$$IEEE$2017
+Nigel P Smart and Frederik Vercauteren$Fully Homomorphic SIMD Operations$DCC$71$1$57-81$Springer$2014
+Benny Pinkas and Thomas Schneider and Michael Zohner$Scalable Private Set Intersection Based on OT Extension$TOPS$21$2$7$ACM$2018
+Adi Akavia and Craig Gentry and Shai Halevi and Max Leibovich$Setup-Free Secure Search on Encrypted Data: Faster and Post-Processing Free$PETS$$$$$2019

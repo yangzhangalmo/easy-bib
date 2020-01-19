@@ -143,7 +143,7 @@ def build_bib(mode='normal'):
         f = open(mode+'_generated.bib', 'a')
         
         # type of bib
-        f.write("@article{"+ref_key+',')
+        f.write("@misc{"+ref_key+',')
         f.write('\n')
         # author
         f.write("author = {"+arxiv.loc[i, 'author']+"},")
@@ -152,7 +152,7 @@ def build_bib(mode='normal'):
         f.write("title = {{"+arxiv.loc[i, 'title']+"}},")
         f.write('\n')
         # journal
-        f.write("journal = {{"+arxiv.loc[i, 'venue']+"}},")
+        f.write("howpublished = {{"+arxiv.loc[i, 'venue']+"}},")
         f.write('\n')
         # year
         f.write("year = {"+str(arxiv.loc[i, 'year'])+"}")

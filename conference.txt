@@ -225,3 +225,22 @@ Yang Zhang and Mathias Humbert and Bartlomiej Surma and Praveen Manoharan and Ji
 Zheng Li and Chengyu Hu and Yang Zhang and Shanqing Guo$How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN$ACSAC$$ACM$2019
 Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang$Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning$USENIX Security$$USENIX$2020
 Fanghua Zhao and Linan Gao and Yang Zhang and Zeyu Wang and Bo Wang and Shanqing Guo$You Are Where You App: An Assessment on Location Privacy of Social Applications$ISSRE$236-247$IEEE$2019
+Adi Akavia and Dan Feldman and Hayim Shaul$Secure Search on Encrypted Data via Multi-Ring Sketch$CCS$985-1001$ACM$2018
+Hao Chen and Kyoohyung Han$Homomorphic Lower Digits Removal and Improved FHE Bootstrapping$EUROCRYPT$315-337$Springer$2018
+Craig Gentry and Amit Sahai and Brent Waters$Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based$CRYPTO$75-92$Springer$2013
+Roman Smolensky$Algebraic Methods in the Theory of Lower Bounds for Boolean Circuit Complexity$STOC$77-82$ACM$1987
+Craig Gentry$Fully Homomorphic Encryption Using Ideal Lattices$STOC$169-178$ACM$2009
+Yark{\i}n Dor{\"o}z and Berk Sunar and Ghaith Hammouri$Bandwidth Efficient PIR from NTRU$FC$195-207$Springer$2014
+Dawn Xiaodong Song and David Wagner and Adrian Perrig$Practical Techniques for Searches on Encrypted Data$S\&P$44-55$IEEE$2000
+Dan Boneh and Giovanni Di Crescenzo and Rafail Ostrovsky and Giuseppe Persiano$Public Key Encryption with Keyword Search$EUROCRYPT$506-522$Springer$2004
+Jung Hee Cheon and Miran Kim and Kristin Lauter$Homomorphic Computation of Edit Distance$FC$194-212$Springer$2015
+Kristin Lauter and Adriana L{\'o}pez-Alt and Michael Naehrig$Private Computation on Encrypted Genomic Data$LATINCRYPT$3-27$Springer$2014
+Masaya Yasuda and Takeshi Shimoyama and Jun Kogure and Kazuhiro Yokoyama and Takeshi Koshiba$Secure Pattern Matching Using Somewhat Homomorphic Encryption$CCSW$65-76$ACM$2013
+Craig Gentry and Shai Halevi and Nigel P Smart$Homomorphic Evaluation of the AES Circuit$CRYPTO$850-867$Springer$2012
+Shai Halevi and Victor Shoup$Algorithms in HElib$CRYPTO$554-571$Springer$2014
+Shai Halevi and Victor Shoup$Bootstrapping for HElib$EUROCRYPT$641-670$Springer$2015
+Vladimir Kolesnikov and Ranjit Kumaresan and Mike Rosulek and Ni Trieu$Efficient Batched Oblivious PRF with Applications to Private Set Intersection$CCS$818-829$ACM$2016
+Hao Chen and Kim Laine and Peter Rindal$Fast Private Set Intersection from Homomorphic Encryption$CCS$1243-1255$ACM$2017
+Andrew Chi-Chih Yao$How to Generate and Exchange Secrets$FOCS$162-167$IEEE$1986
+Oded Goldreich and Silvio Micali and Avi Wigderson$How to Play Any Mental Game$STOC$218-229$ACM$1987
+Benny Pinkas and Mike Rosulek and Ni Trieu and Avishay Yanai$SpOT-Light: Lightweight Private Set Intersection from Sparse {OT} Extension$CRYPTO$401-431$Springer$2019
