@@ -6,7 +6,7 @@ This is a python script to generate nice bibtex file for latex.
 To run it, you need to
 
 - add the bib item you want into conference.txt, journal.txt, arxiv.txt or book.txt
-- `python bib-py.py normal`
+- `python easy-bib.py normal`
 - the resulting .bib is normal_generated.bib
 
 ## Results
