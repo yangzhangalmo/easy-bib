@@ -157,7 +157,7 @@ Xiaoyu Cao and Neil Zhenqiang Gong$Mitigating Evasion Attacks to Deep Neural Net
 William L. Hamilton and Zhitao Ying and Jure Leskovec$Inductive Representation Learning on Large Graphs$NIPS$1025-1035$NIPS$2017
 Yuheng Hu and Lydia Manikonda and Subbarao Kambhampati$What We Instagram: A First Analysis of Instagram Photo Content and User Types$ICWSM$595-598$AAAI$2014
 Minyue Ni and Yang Zhang and Weili Han and Jun Pang$An Empirical Study on User Access Control in Online Social Networks$SACMAT$12-23$ACM$2016
-Jo Van Bulck and Marina Minkin and Ofir Weisse and Daniel Genkin and Baris Kasikci and Frank Piessens and Mark Silberstein and Thomas F. Wenisch and Yuval Yarom and Raoul Strackx$Foreshadow: Extracting the Keys to the Intel {SGX} Kingdom with Transient Out-of-Order Execution$USENIX Security$991-1008$USENIX$2018
+Jo Van Bulck and Marina Minkin and Ofir Weisse and Daniel Genkin and Baris Kasikci and Frank Piessens and Mark Silberstein and Thomas F. Wenisch and Yuval Yarom and Raoul Strackx$Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution$USENIX Security$991-1008$USENIX$2018
 Erick Bauman and Huibo Wang and Mingwei Zhang and Zhiqiang Lin$SGXElide: Enabling Enclave Code Secrecy via Self-modification$CGO$75-86$ACM$2018
 Ran Gilad-Bachrach and Nathan Dowlin and Kim Laine and Kristin Lauter and Michael Naehrig and John Wernsing$CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy$ICML$201-210$JMLR$2012
 Briland Hitaj and Giuseppe Ateniese and Fernando Perez-Cruz$Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning$CCS$603-618$ACM$2017
@@ -243,4 +243,4 @@ Vladimir Kolesnikov and Ranjit Kumaresan and Mike Rosulek and Ni Trieu$Efficient
 Hao Chen and Kim Laine and Peter Rindal$Fast Private Set Intersection from Homomorphic Encryption$CCS$1243-1255$ACM$2017
 Andrew Chi-Chih Yao$How to Generate and Exchange Secrets$FOCS$162-167$IEEE$1986
 Oded Goldreich and Silvio Micali and Avi Wigderson$How to Play Any Mental Game$STOC$218-229$ACM$1987
-Benny Pinkas and Mike Rosulek and Ni Trieu and Avishay Yanai$SpOT-Light: Lightweight Private Set Intersection from Sparse {OT} Extension$CRYPTO$401-431$Springer$2019
+Benny Pinkas and Mike Rosulek and Ni Trieu and Avishay Yanai$SpOT-Light: Lightweight Private Set Intersection from Sparse OT Extension$CRYPTO$401-431$Springer$2019

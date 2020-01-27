@@ -212,6 +212,8 @@ def build_bib(mode='normal'):
 #        f.write("note = {}")
 #        f.write('\n')
         f.write("}")
+        f.write('\n')
+        f.write('\n')        
         f.close()
 
 
