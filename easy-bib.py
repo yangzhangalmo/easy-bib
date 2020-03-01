@@ -44,16 +44,20 @@ def build_bib(mode='normal'):
         venue = conference.loc[i, 'venue']
         if mode == 'normal':
             if venue == 'WWW_old':
-                proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
-                            venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (WWW)'
+#                proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
+#                            venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (WWW)'
+                proceedings = venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (WWW)'
             else:
-                proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
-                            venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (' + venue + ')'
+#                proceedings = 'Proceedings of the '+ str(conference.loc[i, 'year']) + ' ' +\
+#                            venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (' + venue + ')'
+                proceedings = venue_fullname.loc[venue_fullname.venue==venue, 'fullname'].values[0] + ' (' + venue + ')'
         elif mode == 'simple':
             if venue == 'WWW_old':
-                proceedings = "Proc.\ "+'WWW'
+#                proceedings = "Proc.\ "+'WWW'
+                proceedings = 'WWW'
             else:
-                proceedings = "Proc.\ "+venue
+#                proceedings = "Proc.\ "+venue
+                proceedings = venue
             
         f.write("booktitle = {{"+proceedings+"}},")
         f.write('\n')
@@ -213,7 +217,7 @@ def build_bib(mode='normal'):
 #        f.write('\n')
         f.write("}")
         f.write('\n')
-        f.write('\n')        
+        f.write('\n')                
         f.close()
 
 

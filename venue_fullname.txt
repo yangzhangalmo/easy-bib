@@ -21,7 +21,7 @@ IMC$ACM Internet Measurement Conference
 Coling$International Conference on Computational Linguistics
 ASIAPKC$ACM Workshop on Asia Public-key Cryptography
 CHI$Annual ACM Conference on Human Factors in Computing Systems
-WWW$Web Conference
+WWW$The Web Conference
 S\&P$IEEE Symposium on Security and Privacy
 CCS$ACM SIGSAC Conference on Computer and Communications Security
 WSDM$ACM International Conference on Web Search and Data Mining
